@@ -1,0 +1,4 @@
+Feature,Coefficient,Direction,Absolute_Value
+numeric__frequency,-1.6982389203159145,Negative: decreases lapse odds,1.6982389203159145
+categorical__favourite_category_Electronics,-1.1367129072337319,Negative: decreases lapse odds,1.1367129072337319
+categorical__favourite_category_Grocery,-0.4486727153769674,Negative: decreases lapse odds,0.4486727153769674
