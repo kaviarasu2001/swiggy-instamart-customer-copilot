@@ -1,0 +1,9 @@
+MOCK INSTAMART PROJECT POLICY: MISSING ITEM
+
+This is a simulated policy created for the academic project.
+
+1. Customers should report missing items from their order.
+2. The support team should verify the order details and item list.
+3. The case should be assigned to Order Support.
+4. Eligible cases may be considered for a refund or other resolution after review.
+5. Repeated or disputed missing-item complaints should be escalated.

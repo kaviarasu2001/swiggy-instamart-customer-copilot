@@ -1,0 +1,6 @@
+query,policy_category,expected_action
+My order is delayed. What should I do?,Delivery,Check delivery status and escalate if necessary.
+I was charged twice for one order.,Payment,Verify payment transactions and investigate duplicate charges.
+I received a damaged product.,Product Quality,Collect evidence and review refund or replacement eligibility.
+I want to cancel my order.,Cancellation,Check order status and applicable cancellation conditions.
+When will I receive my refund?,Refund,Verify refund approval and explain the applicable timeline.

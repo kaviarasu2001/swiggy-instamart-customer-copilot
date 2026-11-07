@@ -1,0 +1,9 @@
+MOCK INSTAMART PROJECT POLICY: DELIVERY DELAY
+
+This is a simulated policy created for the academic project.
+
+1. Customers can contact Delivery Support if an order is delayed.
+2. The support team should check the order status and estimated delivery time.
+3. If the order cannot be delivered, the case should be escalated to a human agent.
+4. Customers should receive an update about the delay.
+5. The support team must not promise compensation without authorization.

@@ -1,0 +1,9 @@
+MOCK INSTAMART PROJECT POLICY: PAYMENT ISSUE
+
+This is a simulated policy created for the academic project.
+
+1. Customers should report payments deducted without order confirmation.
+2. The support team should verify the payment and order status.
+3. Duplicate or failed transactions should be investigated.
+4. Payment-related refunds must be verified before approval.
+5. Unresolved payment disputes should be escalated to Payment Support or a human agent.

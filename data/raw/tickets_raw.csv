@@ -1,0 +1,1002 @@
+ticket_id,customer_id,order_id,issue_category,description,priority,ticket_status,created_at
+TKT00001,CUST0368,ORD00447,Refund Request,,Low,In Progress,2025-03-14
+TKT00002,CUST0115,ORD03870,Delivery Delay,My order has not arrived on time.,urgent!,In Progress,2026-02-03
+TKT00003,CUST0229,ORD03273, delivery delay ,The product received was damaged or poor quality.,Low,Open,2025-04-05
+TKT00004,CUST0112,ORD02195,Payment Issue,My payment was deducted but order confirmation failed.,Low,Resolved,2026-04-20
+TKT00005,CUST0899,ORD02166,Delivery Delay,My order has not arrived on time.,High,In Progress,2025-04-05
+TKT00006,CUST0548,ORD04293,Delivery Delay,My order has not arrived on time.,Low,Open,2025-05-04
+TKT00007,CUST0327,ORD00430,Delivery Delay,My order has not arrived on time.,High,Open,2026-05-15
+TKT00008,CUST0495,ORD03487,Missing Item,One or more items are missing from my order.,High,Open,2026-09-13
+TKT00009,CUST0836,ORD01008,Refund Request,I want a refund for my order.,Low,Resolved,2025-02-17
+TKT00010,CUST0989,ORD00471,Payment Issue,My payment was deducted but order confirmation failed.,Medium,Open,2025-04-05
+TKT00011,CUST0942,ORD02633,Payment Issue,My payment was deducted but order confirmation failed.,High,In Progress,2026-04-22
+TKT00012,CUST0088,ORD04879,Refund Request,I want a refund for my order.,Medium,Resolved,2025-02-02
+TKT00013,CUST0439,ORD03679,Missing Item,One or more items are missing from my order.,High,In Progress,2025-04-28
+TKT00014,CUST0726,ORD03806,Missing Item,One or more items are missing from my order.,Medium,In Progress,2026-10-06
+TKT00015,CUST0680,ORD03588,Refund Request,I want a refund for my order.,Low,In Progress,2025-09-08
+TKT00016,CUST0209,ORD03931,Refund Request,I want a refund for my order.,High,Resolved,2025-10-30
+TKT00017,CUST0262,ORD02567,Product Quality,The product received was damaged or poor quality.,Low,In Progress,2025-05-02
+TKT00018,CUST0801,ORD00641,Missing Item,One or more items are missing from my order.,Low,Open,2025-08-06
+TKT00019,CUST0985,ORD04199,Delivery Delay,My order has not arrived on time.,Low,Open,2025-02-22
+TKT00020,CUST0445,ORD02252,Payment Issue,My payment was deducted but order confirmation failed.,High,In Progress,2025-05-06
+TKT00021,CUST0233,ORD02502,Missing Item,One or more items are missing from my order.,Low,Open,2025-06-08
+TKT00022,CUST0072,ORD01854,Refund Request,I want a refund for my order.,Low,Resolved,2026-08-24
+TKT00023,CUST0436,ORD00913,Delivery Delay,My order has not arrived on time.,High,Resolved,2025-06-25
+TKT00024,CUST0405,ORD04634,Product Quality,The product received was damaged or poor quality.,Low,Open,2025-10-19
+TKT00025,CUST0237,ORD03908,Product Quality,The product received was damaged or poor quality.,High,Open,2025-06-08
+TKT00026,CUST0763,ORD03220,Delivery Delay,My order has not arrived on time.,Low,Resolved,2026-05-06
+TKT00027,CUST0042,ORD02013,Delivery Delay,My order has not arrived on time.,Medium,In Progress,2025-12-23
+TKT00028,CUST0977,ORD04114,Refund Request,I want a refund for my order.,Low,Resolved,2026-09-26
+TKT00029,CUST0984,ORD02728,Refund Request,I want a refund for my order.,Medium,In Progress,2025-08-25
+TKT00030,CUST0573,ORD02218,Payment Issue,My payment was deducted but order confirmation failed.,High,Open,2026-03-04
+TKT00031,CUST0893,ORD02253,Payment Issue,My payment was deducted but order confirmation failed.,Medium,Open,2025-05-05
+TKT00032,CUST0559,ORD01137,Product Quality,The product received was damaged or poor quality.,High,In Progress,2025-11-11
+TKT00033,CUST0897,ORD00461,Delivery Delay,My order has not arrived on time.,Low,In Progress,2025-10-06
+TKT00034,CUST0493,ORD02773,Product Quality,The product received was damaged or poor quality.,Medium,Resolved,2026-08-27
+TKT00035,CUST0433,ORD04440,Refund Request,I want a refund for my order.,Low,In Progress,2025-04-15
+TKT00036,CUST0854,ORD00320,Missing Item,One or more items are missing from my order.,Medium,Open,2025-02-11
+TKT00037,CUST0975,ORD04292,Refund Request,I want a refund for my order.,High,Open,2026-02-01
+TKT00038,CUST0052,ORD04139,Missing Item,One or more items are missing from my order.,High,Open,2026-10-03
+TKT00039,CUST0791,ORD01384,Delivery Delay,My order has not arrived on time.,High,In Progress,2026-04-05
+TKT00040,CUST0506,ORD03159,Delivery Delay,My order has not arrived on time.,High,In Progress,2026-05-06
+TKT00041,CUST0100,ORD00827,Delivery Delay,My order has not arrived on time.,Low,Open,2026-07-19
+TKT00042,CUST0871,ORD03791,Payment Issue,My payment was deducted but order confirmation failed.,Low,In Progress,2025-06-17
+TKT00043,CUST0428,ORD03503,Payment Issue,My payment was deducted but order confirmation failed.,Low,Resolved,2026-08-25
+TKT00044,CUST0940,ORD01773,Missing Item,One or more items are missing from my order.,Low,Resolved,2025-06-23
+TKT00045,CUST0322,ORD00340,Product Quality,The product received was damaged or poor quality.,Low,In Progress,2026-01-07
+TKT00046,CUST0339,ORD04854,Product Quality,The product received was damaged or poor quality.,High,In Progress,2026-08-22
+TKT00047,CUST0870,ORD02229,Missing Item,One or more items are missing from my order.,Low,Open,2025-05-30
+TKT00048,CUST0686,ORD04466,Payment Issue,My payment was deducted but order confirmation failed.,Low,In Progress,2025-09-06
+TKT00049,CUST0333,ORD03390,Refund Request,I want a refund for my order.,Low,Open,2026-09-19
+TKT00050,CUST0736,ORD03892,Missing Item,One or more items are missing from my order.,High,Resolved,2025-06-29
+TKT00051,CUST0587,ORD03800,Product Quality,The product received was damaged or poor quality.,High,In Progress,2025-04-30
+TKT00052,CUST0187,ORD00974,Missing Item,One or more items are missing from my order.,High,Resolved,2025-01-28
+TKT00053,CUST0447,ORD01820,Missing Item,One or more items are missing from my order.,High,In Progress,2025-04-27
+TKT00054,CUST0390,ORD02334,Delivery Delay,My order has not arrived on time.,Low,In Progress,2026-10-19
+TKT00055,CUST0779,ORD02489,Payment Issue,My payment was deducted but order confirmation failed.,Low,Open,2025-09-19
+TKT00056,CUST0673,ORD00220,Delivery Delay,My order has not arrived on time.,Medium,Open,2026-10-16
+TKT00057,CUST0302,ORD02733,Payment Issue,My payment was deducted but order confirmation failed.,Low,In Progress,2026-09-18
+TKT00058,CUST0474,ORD00772,Missing Item,One or more items are missing from my order.,High,In Progress,2025-02-07
+TKT00059,CUST0611,ORD03717,Payment Issue,My payment was deducted but order confirmation failed.,High,Open,2025-07-16
+TKT00060,CUST0985,ORD03416,Product Quality,The product received was damaged or poor quality.,Low,Resolved,2026-06-09
+TKT00061,CUST0357,ORD04613,Delivery Delay,My order has not arrived on time.,Medium,In Progress,2026-09-16
+TKT00062,CUST0079,ORD03724,Missing Item,One or more items are missing from my order.,High,Open,2026-03-13
+TKT00063,CUST0708,ORD01834,Product Quality,The product received was damaged or poor quality.,Medium,In Progress,2026-10-11
+TKT00064,CUST0310,ORD04838,Payment Issue,My payment was deducted but order confirmation failed.,High,Open,2026-10-01
+TKT00065,CUST0273,ORD02055,Payment Issue,My payment was deducted but order confirmation failed.,High,Resolved,2026-02-14
+TKT00066,CUST0438,ORD01630,Product Quality,The product received was damaged or poor quality.,Low,In Progress,2025-11-29
+TKT00067,CUST0538,ORD04528,Payment Issue,My payment was deducted but order confirmation failed.,High,In Progress,2026-06-15
+TKT00068,CUST0551,ORD01853,Delivery Delay,My order has not arrived on time.,Medium,Resolved,2026-04-10
+TKT00069,CUST0274,ORD00382,Refund Request,I want a refund for my order.,Medium,In Progress,2025-06-07
+TKT00070,CUST0556,ORD02348,Payment Issue,My payment was deducted but order confirmation failed.,Low,In Progress,2025-06-09
+TKT00071,CUST0701,ORD03979,Missing Item,One or more items are missing from my order.,High,In Progress,2025-11-30
+TKT00072,CUST0970,ORD00948,Payment Issue,My payment was deducted but order confirmation failed.,Medium,Open,2026-01-11
+TKT00073,CUST0269,ORD02315,Missing Item,One or more items are missing from my order.,Low,Open,2025-03-20
+TKT00074,CUST0851,ORD00650,Payment Issue,My payment was deducted but order confirmation failed.,Medium,In Progress,2025-07-16
+TKT00075,CUST0427,ORD03433,Payment Issue,My payment was deducted but order confirmation failed.,Low,Resolved,2025-04-30
+TKT00076,CUST0966,ORD02379,Missing Item,One or more items are missing from my order.,Medium,Resolved,2026-10-13
+TKT00077,CUST0830,ORD01651,Delivery Delay,My order has not arrived on time.,High,In Progress,2025-08-14
+TKT00078,CUST0679,ORD01135,Refund Request,I want a refund for my order.,Medium,Open,2026-08-18
+TKT00079,CUST0073,ORD02823,Refund Request,I want a refund for my order.,Medium,Open,2026-02-14
+TKT00080,CUST0053,ORD03350,Delivery Delay,My order has not arrived on time.,Low,In Progress,2026-06-22
+TKT00081,CUST0522,ORD04702,Payment Issue,My payment was deducted but order confirmation failed.,Low,Open,2026-10-02
+TKT00082,CUST0025,ORD02186,Refund Request,I want a refund for my order.,Low,Open,2025-12-05
+TKT00083,CUST0148,ORD00804,Delivery Delay,My order has not arrived on time.,Medium,Resolved,2026-07-10
+TKT00084,CUST0369,ORD04164,Delivery Delay,My order has not arrived on time.,Low,In Progress,2026-08-19
+TKT00085,CUST0217,ORD03149,Refund Request,I want a refund for my order.,High,Open,2026-06-21
+TKT00086,CUST0557,ORD03502,Missing Item,One or more items are missing from my order.,Low,Open,2025-08-08
+TKT00087,CUST0254,ORD00487,Product Quality,The product received was damaged or poor quality.,Low,Open,2025-10-20
+TKT00088,CUST0715,ORD01562,Missing Item,One or more items are missing from my order.,High,In Progress,2025-07-23
+TKT00089,CUST0732,ORD03840,Payment Issue,My payment was deducted but order confirmation failed.,Low,In Progress,2026-05-29
+TKT00090,CUST0694,ORD04162,Missing Item,One or more items are missing from my order.,Low,Open,2025-07-21
+TKT00091,CUST0884,ORD02177,Product Quality,The product received was damaged or poor quality.,Medium,Resolved,2025-02-01
+TKT00092,CUST0306,ORD04024,Product Quality,The product received was damaged or poor quality.,Medium,Resolved,2025-03-30
+TKT00093,CUST0940,ORD04209,Delivery Delay,My order has not arrived on time.,Low,In Progress,2025-07-21
+TKT00094,CUST0111,ORD01938,Payment Issue,My payment was deducted but order confirmation failed.,High,Resolved,2025-10-20
+TKT00095,CUST0868,ORD04491,Delivery Delay,My order has not arrived on time.,Low,Open,2025-04-25
+TKT00096,CUST0120,ORD01442,Missing Item,One or more items are missing from my order.,Low,In Progress,2025-08-10
+TKT00097,CUST0171,ORD01198,Missing Item,One or more items are missing from my order.,Low,In Progress,2025-07-01
+TKT00098,CUST0712,ORD03413,Refund Request,I want a refund for my order.,Medium,Resolved,2026-04-14
+TKT00099,CUST0188,ORD03184,Delivery Delay,My order has not arrived on time.,High,In Progress,2026-03-02
+TKT00100,CUST0840,ORD00699,Delivery Delay,My order has not arrived on time.,High,Resolved,2026-07-06
+TKT00101,CUST0369,ORD04164,Delivery Delay,My order has not arrived on time.,High,Resolved,2025-03-01
+TKT00102,CUST0772,ORD01000,Delivery Delay,My order has not arrived on time.,Medium,Open,2026-04-30
+TKT00103,CUST0634,ORD04025,Product Quality,The product received was damaged or poor quality.,Medium,Resolved,2025-01-11
+TKT00104,CUST0822,ORD00037,Refund Request,I want a refund for my order.,Low,Resolved,2026-09-24
+TKT00105,CUST0781,ORD03985,Payment Issue,My payment was deducted but order confirmation failed.,Medium,In Progress,2026-01-20
+TKT00106,CUST0560,ORD03935,Payment Issue,My payment was deducted but order confirmation failed.,Low,Open,2026-02-14
+TKT00107,CUST0312,ORD03902,Payment Issue,My payment was deducted but order confirmation failed.,Medium,Open,2025-02-11
+TKT00108,CUST0025,ORD03325,Product Quality,The product received was damaged or poor quality.,Low,Resolved,2025-05-03
+TKT00109,CUST0915,ORD02358,Refund Request,I want a refund for my order.,Medium,In Progress,2025-09-09
+TKT00110,CUST0692,ORD03526,Refund Request,I want a refund for my order.,High,In Progress,2026-08-27
+TKT00111,CUST0318,ORD01386,Product Quality,The product received was damaged or poor quality.,Low,In Progress,2026-04-29
+TKT00112,CUST0035,ORD03904,Delivery Delay,My order has not arrived on time.,Medium,Open,2025-08-01
+TKT00113,CUST0881,ORD02779,Missing Item,One or more items are missing from my order.,Medium,Open,2025-09-25
+TKT00114,CUST0529,ORD02295,Delivery Delay,My order has not arrived on time.,Low,Resolved,2026-10-29
+TKT00115,CUST0375,ORD02529,Payment Issue,My payment was deducted but order confirmation failed.,Medium,Resolved,2026-06-24
+TKT00116,CUST0569,ORD02844,Delivery Delay,My order has not arrived on time.,High,In Progress,2026-09-11
+TKT00117,CUST0461,ORD00187,Product Quality,The product received was damaged or poor quality.,Low,Resolved,2026-10-23
+TKT00118,CUST0840,ORD00699,Payment Issue,My payment was deducted but order confirmation failed.,Low,In Progress,2025-05-15
+TKT00119,CUST0718,ORD01228,Missing Item,One or more items are missing from my order.,Low,Open,2026-05-13
+TKT00120,CUST0917,ORD00573,Payment Issue,My payment was deducted but order confirmation failed.,Low,Resolved,2026-08-30
+TKT00121,CUST0964,ORD02199,Delivery Delay,My order has not arrived on time.,Low,In Progress,2025-05-06
+TKT00122,CUST0429,ORD03343,Refund Request,I want a refund for my order.,High,Open,2025-12-25
+TKT00123,CUST0229,ORD03273,Refund Request,I want a refund for my order.,Low,In Progress,2026-05-18
+TKT00124,CUST0337,ORD02356,Refund Request,I want a refund for my order.,High,Resolved,2025-11-14
+TKT00125,CUST0198,ORD04276,Payment Issue,My payment was deducted but order confirmation failed.,High,In Progress,2025-01-12
+TKT00126,CUST0522,ORD02827,Refund Request,I want a refund for my order.,High,Open,2026-04-22
+TKT00127,CUST0877,ORD00396,Product Quality,The product received was damaged or poor quality.,Low,Resolved,2025-10-21
+TKT00128,CUST0945,ORD03825,Missing Item,One or more items are missing from my order.,High,Open,2026-03-16
+TKT00129,CUST0206,ORD02874,Refund Request,I want a refund for my order.,Low,Resolved,2026-05-31
+TKT00130,CUST0496,ORD03174,Product Quality,The product received was damaged or poor quality.,High,In Progress,2026-01-26
+TKT00131,CUST0522,ORD02827,Product Quality,The product received was damaged or poor quality.,Low,Open,2025-11-12
+TKT00132,CUST0971,ORD02768,Payment Issue,My payment was deducted but order confirmation failed.,Medium,Open,2025-01-08
+TKT00133,CUST0494,ORD00453,Payment Issue,My payment was deducted but order confirmation failed.,Medium,In Progress,2026-05-23
+TKT00134,CUST0808,ORD02797,Missing Item,One or more items are missing from my order.,High,Open,2025-05-04
+TKT00135,CUST0866,ORD03975,Missing Item,One or more items are missing from my order.,Medium,Open,2026-01-07
+TKT00136,CUST0853,ORD01520,Delivery Delay,My order has not arrived on time.,High,Open,2025-11-10
+TKT00137,CUST0102,ORD03015,Missing Item,One or more items are missing from my order.,High,Open,2025-07-04
+TKT00138,CUST0940,ORD00155,Payment Issue,My payment was deducted but order confirmation failed.,High,In Progress,2026-07-01
+TKT00139,CUST0637,ORD01738,Product Quality,The product received was damaged or poor quality.,Medium,Open,2026-08-08
+TKT00140,CUST0975,ORD02184,Delivery Delay,My order has not arrived on time.,High,Open,2026-06-09
+TKT00141,CUST0710,ORD04914,Missing Item,One or more items are missing from my order.,Medium,Open,2025-02-08
+TKT00142,CUST0109,ORD01073,Product Quality,The product received was damaged or poor quality.,Medium,Resolved,2025-03-25
+TKT00143,CUST0858,ORD01383,Payment Issue,My payment was deducted but order confirmation failed.,Low,Resolved,2025-01-21
+TKT00144,CUST0371,ORD02043,Refund Request,I want a refund for my order.,Medium,In Progress,2025-09-10
+TKT00145,CUST0226,ORD04964,Delivery Delay,My order has not arrived on time.,Low,In Progress,2025-10-30
+TKT00146,CUST0800,ORD04268,Product Quality,The product received was damaged or poor quality.,High,In Progress,2025-09-15
+TKT00147,CUST0571,ORD00174,Payment Issue,My payment was deducted but order confirmation failed.,High,Open,2026-06-26
+TKT00148,CUST0239,ORD01170,Payment Issue,My payment was deducted but order confirmation failed.,Low,Resolved,2026-10-02
+TKT00149,CUST0229,ORD04109,Delivery Delay,My order has not arrived on time.,High,Resolved,2026-07-06
+TKT00150,CUST0571,ORD00292,Delivery Delay,My order has not arrived on time.,Low,In Progress,2026-04-06
+TKT00151,CUST0902,ORD04279,Missing Item,One or more items are missing from my order.,Low,Resolved,2026-09-01
+TKT00152,CUST0781,ORD01407,Missing Item,One or more items are missing from my order.,High,In Progress,2025-08-12
+TKT00153,CUST0238,ORD04589,Delivery Delay,My order has not arrived on time.,Low,Open,2025-04-02
+TKT00154,CUST0688,ORD01468,Delivery Delay,My order has not arrived on time.,Low,Resolved,2025-10-07
+TKT00155,CUST0628,ORD02172,Product Quality,The product received was damaged or poor quality.,Low,Open,2025-06-19
+TKT00156,CUST0523,ORD03310,Missing Item,One or more items are missing from my order.,High,Open,2026-09-21
+TKT00157,CUST0914,ORD00632,Payment Issue,My payment was deducted but order confirmation failed.,High,Resolved,2025-09-05
+TKT00158,CUST0694,ORD02786,Missing Item,One or more items are missing from my order.,High,In Progress,2025-12-27
+TKT00159,CUST0494,ORD02526,Missing Item,One or more items are missing from my order.,High,Resolved,2025-12-15
+TKT00160,CUST0123,ORD03920,Delivery Delay,My order has not arrived on time.,High,Open,2026-03-11
+TKT00161,CUST0200,ORD04981,Delivery Delay,My order has not arrived on time.,Medium,In Progress,2026-02-10
+TKT00162,CUST0383,ORD03322,Missing Item,One or more items are missing from my order.,Medium,Open,2026-08-24
+TKT00163,CUST0817,ORD02046,Refund Request,I want a refund for my order.,Low,In Progress,2025-03-19
+TKT00164,CUST0946,ORD02032,Refund Request,I want a refund for my order.,Medium,Resolved,2026-04-03
+TKT00165,CUST0696,ORD02090,Missing Item,One or more items are missing from my order.,High,Open,2026-08-09
+TKT00166,CUST0530,ORD04071,Refund Request,I want a refund for my order.,High,In Progress,2026-01-27
+TKT00167,CUST0375,ORD01607,Missing Item,One or more items are missing from my order.,High,In Progress,2025-01-14
+TKT00168,CUST0154,ORD00835,Delivery Delay,My order has not arrived on time.,Low,Resolved,2025-02-14
+TKT00169,CUST0465,ORD01672,Delivery Delay,My order has not arrived on time.,Low,In Progress,2025-02-07
+TKT00170,CUST0954,ORD00114,Delivery Delay,My order has not arrived on time.,Low,In Progress,2026-02-20
+TKT00171,CUST0947,ORD00531,Payment Issue,My payment was deducted but order confirmation failed.,Low,Open,2025-09-02
+TKT00172,CUST0558,ORD00451,Delivery Delay,My order has not arrived on time.,Low,Resolved,2025-03-03
+TKT00173,CUST0215,ORD03858,Delivery Delay,My order has not arrived on time.,Low,Resolved,2026-05-08
+TKT00174,CUST0101,ORD03612,Missing Item,One or more items are missing from my order.,Medium,Open,2026-08-31
+TKT00175,CUST0175,ORD03484,Refund Request,I want a refund for my order.,High,Open,2025-11-19
+TKT00176,CUST0445,ORD02310,Refund Request,I want a refund for my order.,Medium,Open,2025-09-09
+TKT00177,CUST0883,ORD03586,Delivery Delay,My order has not arrived on time.,Low,In Progress,2026-04-13
+TKT00178,CUST0596,ORD00807,Delivery Delay,My order has not arrived on time.,High,Resolved,2025-03-02
+TKT00179,CUST0561,ORD04504,Delivery Delay,My order has not arrived on time.,High,Resolved,2025-04-29
+TKT00180,CUST0083,ORD02506,Missing Item,One or more items are missing from my order.,High,Resolved,2025-03-28
+TKT00181,CUST0441,ORD04691,Missing Item,One or more items are missing from my order.,Medium,In Progress,2026-08-18
+TKT00182,CUST0017,ORD00762,Missing Item,One or more items are missing from my order.,High,Resolved,2025-03-21
+TKT00183,CUST0880,ORD02487,Refund Request,I want a refund for my order.,Low,Resolved,2025-08-16
+TKT00184,CUST0813,ORD03482,Payment Issue,My payment was deducted but order confirmation failed.,Low,Resolved,2026-04-28
+TKT00185,CUST0726,ORD02479,Refund Request,I want a refund for my order.,Medium,Resolved,2026-09-15
+TKT00186,CUST0197,ORD02231,Missing Item,One or more items are missing from my order.,Medium,Open,2025-11-06
+TKT00187,CUST0452,ORD00832,Product Quality,The product received was damaged or poor quality.,Low,In Progress,2026-08-06
+TKT00188,CUST0487,ORD01906,Payment Issue,My payment was deducted but order confirmation failed.,Medium,Resolved,2026-04-30
+TKT00189,CUST0193,ORD01194,Delivery Delay,My order has not arrived on time.,High,Resolved,2025-01-25
+TKT00190,CUST0992,ORD01508,Refund Request,I want a refund for my order.,Medium,Resolved,2025-07-21
+TKT00191,CUST0345,ORD03419,Payment Issue,My payment was deducted but order confirmation failed.,High,Resolved,2025-08-13
+TKT00192,CUST0618,ORD03152,Product Quality,The product received was damaged or poor quality.,High,Resolved,2026-05-25
+TKT00193,CUST0752,ORD03036,Payment Issue,My payment was deducted but order confirmation failed.,High,Open,2026-09-21
+TKT00194,CUST0393,ORD01810,Refund Request,I want a refund for my order.,High,Open,2026-08-02
+TKT00195,CUST0226,ORD04799,Missing Item,One or more items are missing from my order.,High,In Progress,2026-07-13
+TKT00196,CUST0084,ORD00439,Delivery Delay,My order has not arrived on time.,Low,In Progress,2026-06-04
+TKT00197,CUST0485,ORD01713,Missing Item,One or more items are missing from my order.,Low,Resolved,2025-07-02
+TKT00198,CUST0891,ORD00591,Missing Item,One or more items are missing from my order.,Low,Resolved,2025-03-18
+TKT00199,CUST0915,ORD01695,Refund Request,I want a refund for my order.,High,Open,2026-03-02
+TKT00200,CUST0893,ORD04810,Missing Item,One or more items are missing from my order.,Medium,In Progress,2025-03-08
+TKT00201,CUST0439,ORD01832,Missing Item,One or more items are missing from my order.,Medium,Resolved,2026-10-22
+TKT00202,CUST0561,ORD04543,Refund Request,I want a refund for my order.,High,Resolved,2026-05-09
+TKT00203,CUST0979,ORD02476,Refund Request,I want a refund for my order.,Medium,Resolved,2026-07-01
+TKT00204,CUST0750,ORD03499,Product Quality,The product received was damaged or poor quality.,High,In Progress,2025-03-18
+TKT00205,CUST0678,ORD02288,Missing Item,One or more items are missing from my order.,Medium,Open,2025-02-24
+TKT00206,CUST0571,ORD01330,Payment Issue,My payment was deducted but order confirmation failed.,High,Open,2026-08-29
+TKT00207,CUST0547,ORD03822,Delivery Delay,My order has not arrived on time.,Medium,Resolved,2026-04-18
+TKT00208,CUST0530,ORD04846,Delivery Delay,My order has not arrived on time.,Medium,Resolved,2026-10-18
+TKT00209,CUST0830,ORD01318,Refund Request,I want a refund for my order.,Low,Resolved,2025-09-04
+TKT00210,CUST0059,ORD03894,Refund Request,I want a refund for my order.,Medium,Resolved,2026-03-15
+TKT00211,CUST0504,ORD01306,Product Quality,The product received was damaged or poor quality.,Medium,Resolved,2025-11-10
+TKT00212,CUST0088,ORD03585,Missing Item,One or more items are missing from my order.,High,In Progress,2025-11-16
+TKT00213,CUST0253,ORD03946,Refund Request,I want a refund for my order.,Medium,Open,2025-08-08
+TKT00214,CUST0717,ORD02247,Refund Request,I want a refund for my order.,Medium,In Progress,2026-01-06
+TKT00215,CUST0646,ORD03685,Delivery Delay,My order has not arrived on time.,Medium,In Progress,2025-08-04
+TKT00216,CUST0616,ORD01362,Missing Item,One or more items are missing from my order.,Medium,Resolved,2025-02-18
+TKT00217,CUST0404,ORD00397,Product Quality,The product received was damaged or poor quality.,Medium,In Progress,2026-04-08
+TKT00218,CUST0628,ORD00482,Refund Request,I want a refund for my order.,Low,Open,2025-04-28
+TKT00219,CUST0449,ORD02236,Refund Request,I want a refund for my order.,Medium,Resolved,2025-03-23
+TKT00220,CUST0860,ORD04514,Refund Request,I want a refund for my order.,High,Open,2025-09-20
+TKT00221,CUST0488,ORD00638,Delivery Delay,My order has not arrived on time.,High,In Progress,2026-08-12
+TKT00222,CUST0761,ORD02279,Refund Request,I want a refund for my order.,Medium,Resolved,2026-05-11
+TKT00223,CUST0699,ORD03521,Refund Request,I want a refund for my order.,Medium,Open,2026-09-26
+TKT00224,CUST0823,ORD01012,Delivery Delay,My order has not arrived on time.,Medium,Open,2026-08-25
+TKT00225,CUST0177,ORD03609,Refund Request,I want a refund for my order.,Low,Resolved,2025-06-25
+TKT00226,CUST0683,ORD01530,Missing Item,One or more items are missing from my order.,High,Open,2025-03-30
+TKT00227,CUST0069,ORD04044,Missing Item,One or more items are missing from my order.,Low,Resolved,2026-10-01
+TKT00228,CUST0661,ORD02897,Delivery Delay,My order has not arrived on time.,Low,Resolved,2025-12-25
+TKT00229,CUST0245,ORD02735,Missing Item,One or more items are missing from my order.,Medium,In Progress,2025-10-13
+TKT00230,CUST0127,ORD00884,Product Quality,The product received was damaged or poor quality.,Medium,Open,2025-10-24
+TKT00231,CUST0415,ORD02317,Refund Request,I want a refund for my order.,High,Resolved,2025-09-17
+TKT00232,CUST0410,ORD04284,Product Quality,The product received was damaged or poor quality.,Medium,In Progress,2026-04-20
+TKT00233,CUST0693,ORD00098,Missing Item,One or more items are missing from my order.,High,In Progress,2026-09-15
+TKT00234,CUST0106,ORD03793,Delivery Delay,My order has not arrived on time.,Low,Resolved,2026-06-20
+TKT00235,CUST0447,ORD02464,Delivery Delay,My order has not arrived on time.,High,Resolved,2026-07-16
+TKT00236,CUST0649,ORD03598,Product Quality,The product received was damaged or poor quality.,High,Open,2025-02-06
+TKT00237,CUST0605,ORD03317,Missing Item,One or more items are missing from my order.,High,Open,2025-06-30
+TKT00238,CUST0129,ORD02161,Refund Request,I want a refund for my order.,Low,Open,2025-01-25
+TKT00239,CUST0695,ORD01544,Missing Item,One or more items are missing from my order.,Low,Resolved,2025-12-15
+TKT00240,CUST0798,ORD03137,Missing Item,One or more items are missing from my order.,Medium,In Progress,2026-09-29
+TKT00241,CUST0113,ORD00702,Delivery Delay,My order has not arrived on time.,Medium,In Progress,2026-06-27
+TKT00242,CUST0610,ORD02921,Payment Issue,My payment was deducted but order confirmation failed.,High,Resolved,2025-08-15
+TKT00243,CUST0004,ORD00474,Refund Request,I want a refund for my order.,High,Open,2025-12-14
+TKT00244,CUST0383,ORD03250,Refund Request,I want a refund for my order.,Low,In Progress,2025-02-07
+TKT00245,CUST0500,ORD03144,Delivery Delay,My order has not arrived on time.,Low,In Progress,2026-01-18
+TKT00246,CUST0282,ORD00423,Missing Item,One or more items are missing from my order.,Low,Open,2026-07-24
+TKT00247,CUST0665,ORD03788,Delivery Delay,My order has not arrived on time.,High,In Progress,2025-08-24
+TKT00248,CUST0228,ORD02080,Missing Item,One or more items are missing from my order.,High,Open,2025-06-30
+TKT00249,CUST0560,ORD03935,Payment Issue,My payment was deducted but order confirmation failed.,Low,In Progress,2025-04-24
+TKT00250,CUST0242,ORD00209,Payment Issue,My payment was deducted but order confirmation failed.,High,In Progress,2025-11-02
+TKT00251,CUST0785,ORD00898,Product Quality,The product received was damaged or poor quality.,Low,In Progress,2025-05-12
+TKT00252,CUST0096,ORD02470,Missing Item,One or more items are missing from my order.,Medium,Open,2025-12-14
+TKT00253,CUST0443,ORD00942,Delivery Delay,My order has not arrived on time.,Low,In Progress,2025-06-29
+TKT00254,CUST0942,ORD01650,Delivery Delay,My order has not arrived on time.,High,In Progress,2026-02-19
+TKT00255,CUST0421,ORD03303,Delivery Delay,My order has not arrived on time.,High,In Progress,2026-08-13
+TKT00256,CUST0050,ORD00723,Product Quality,The product received was damaged or poor quality.,High,Resolved,2026-10-16
+TKT00257,CUST0016,ORD03389,Refund Request,I want a refund for my order.,High,In Progress,2026-01-20
+TKT00258,CUST0751,ORD00518,Delivery Delay,My order has not arrived on time.,Low,In Progress,2026-05-27
+TKT00259,CUST0370,ORD00876,Payment Issue,My payment was deducted but order confirmation failed.,Low,Open,2025-02-12
+TKT00260,CUST0083,ORD02939,Delivery Delay,My order has not arrived on time.,Medium,Open,2026-04-25
+TKT00261,CUST0776,ORD03968,Delivery Delay,My order has not arrived on time.,Low,Resolved,2025-04-28
+TKT00262,CUST0449,ORD00853,Delivery Delay,My order has not arrived on time.,Medium,Open,2026-07-25
+TKT00263,CUST0803,ORD01500,Refund Request,I want a refund for my order.,Low,Open,2025-03-02
+TKT00264,CUST0293,ORD04626,Delivery Delay,My order has not arrived on time.,Low,Open,2026-07-07
+TKT00265,CUST0256,ORD04949,Refund Request,I want a refund for my order.,High,Resolved,2025-07-07
+TKT00266,CUST0912,ORD02906,Refund Request,I want a refund for my order.,Medium,Resolved,2026-03-29
+TKT00267,CUST0449,ORD02236,Product Quality,The product received was damaged or poor quality.,High,In Progress,2025-07-06
+TKT00268,CUST0540,ORD01735,Payment Issue,My payment was deducted but order confirmation failed.,High,In Progress,2026-04-09
+TKT00269,CUST0275,ORD03063,Delivery Delay,My order has not arrived on time.,Low,Open,2025-06-13
+TKT00270,CUST0409,ORD02955,Delivery Delay,My order has not arrived on time.,Low,In Progress,2026-02-28
+TKT00271,CUST0799,ORD01474,Delivery Delay,My order has not arrived on time.,Medium,In Progress,2025-04-12
+TKT00272,CUST0519,ORD00115,Refund Request,I want a refund for my order.,Medium,Resolved,2025-09-24
+TKT00273,CUST0218,ORD00758,Missing Item,One or more items are missing from my order.,Low,Resolved,2026-09-28
+TKT00274,CUST0213,ORD04793,Payment Issue,My payment was deducted but order confirmation failed.,Medium,In Progress,2025-06-02
+TKT00275,CUST0796,ORD02091,Delivery Delay,My order has not arrived on time.,Low,In Progress,2026-03-05
+TKT00276,CUST0962,ORD02412,Missing Item,One or more items are missing from my order.,Low,In Progress,2026-03-03
+TKT00277,CUST0571,ORD02336,Missing Item,One or more items are missing from my order.,Low,Open,2026-08-01
+TKT00278,CUST0464,ORD03914,Missing Item,One or more items are missing from my order.,Medium,Resolved,2026-09-03
+TKT00279,CUST0421,ORD00325,Payment Issue,My payment was deducted but order confirmation failed.,High,In Progress,2026-06-20
+TKT00280,CUST0580,ORD00414,Missing Item,One or more items are missing from my order.,Medium,In Progress,2025-11-29
+TKT00281,CUST0178,ORD01380,Delivery Delay,My order has not arrived on time.,High,Open,2026-03-16
+TKT00282,CUST0171,ORD02434,Delivery Delay,My order has not arrived on time.,Medium,Resolved,2026-08-29
+TKT00283,CUST0890,ORD03356,Product Quality,The product received was damaged or poor quality.,High,Open,2025-05-04
+TKT00284,CUST0890,ORD02454,Refund Request,I want a refund for my order.,High,Open,2025-10-29
+TKT00285,CUST0872,ORD02206,Missing Item,One or more items are missing from my order.,Medium,In Progress,2026-10-30
+TKT00286,CUST0447,ORD04690,Refund Request,I want a refund for my order.,Medium,Open,2025-12-15
+TKT00287,CUST0403,ORD00806,Refund Request,I want a refund for my order.,High,Open,2025-09-06
+TKT00288,CUST0846,ORD02859,Refund Request,I want a refund for my order.,Low,In Progress,2025-09-28
+TKT00289,CUST0163,ORD02712,Refund Request,I want a refund for my order.,High,Resolved,2026-03-05
+TKT00290,CUST0317,ORD02368,Refund Request,I want a refund for my order.,High,In Progress,2026-07-24
+TKT00291,CUST0862,ORD04038,Delivery Delay,My order has not arrived on time.,Low,Resolved,2026-08-07
+TKT00292,CUST0220,ORD01335,Payment Issue,My payment was deducted but order confirmation failed.,High,Open,2025-09-04
+TKT00293,CUST0298,ORD04769,Missing Item,One or more items are missing from my order.,Low,Open,2026-04-26
+TKT00294,CUST0952,ORD01658,Missing Item,One or more items are missing from my order.,Low,In Progress,2025-04-08
+TKT00295,CUST0194,ORD02726,Delivery Delay,My order has not arrived on time.,Medium,In Progress,2025-11-25
+TKT00296,CUST0376,ORD02604,Delivery Delay,My order has not arrived on time.,High,In Progress,2026-08-16
+TKT00297,CUST0847,ORD04249,Refund Request,I want a refund for my order.,High,Open,2026-03-01
+TKT00298,CUST0112,ORD02195,Payment Issue,My payment was deducted but order confirmation failed.,Low,Open,2026-07-31
+TKT00299,CUST0340,ORD01423,Missing Item,One or more items are missing from my order.,High,Resolved,2026-02-28
+TKT00300,CUST0736,ORD00109,Product Quality,The product received was damaged or poor quality.,Low,In Progress,2025-01-05
+TKT00301,CUST0201,ORD01819,Delivery Delay,My order has not arrived on time.,High,Open,2026-04-04
+TKT00302,CUST0582,ORD04132,Product Quality,The product received was damaged or poor quality.,High,Resolved,2026-08-16
+TKT00303,CUST0650,ORD00050,Missing Item,One or more items are missing from my order.,Low,In Progress,2026-05-13
+TKT00304,CUST0696,ORD04481,Delivery Delay,My order has not arrived on time.,Low,In Progress,2025-03-28
+TKT00305,CUST0189,ORD02715,Missing Item,One or more items are missing from my order.,High,Resolved,2026-02-06
+TKT00306,CUST0113,ORD00702,Delivery Delay,My order has not arrived on time.,High,Resolved,2025-10-20
+TKT00307,CUST0695,ORD01511,Missing Item,One or more items are missing from my order.,Low,Resolved,2025-10-08
+TKT00308,CUST0171,ORD02771,Product Quality,The product received was damaged or poor quality.,Medium,Open,2025-07-16
+TKT00309,CUST0571,ORD01579,Payment Issue,My payment was deducted but order confirmation failed.,Medium,In Progress,2025-03-24
+TKT00310,CUST0022,ORD00543,Delivery Delay,My order has not arrived on time.,High,In Progress,2025-01-27
+TKT00311,CUST0763,ORD03330,Product Quality,The product received was damaged or poor quality.,High,Resolved,2025-05-15
+TKT00312,CUST0387,ORD03362,Missing Item,One or more items are missing from my order.,High,Open,2025-03-31
+TKT00313,CUST0378,ORD00595,Product Quality,The product received was damaged or poor quality.,Low,Resolved,2025-07-25
+TKT00314,CUST0781,ORD01407,Delivery Delay,My order has not arrived on time.,High,Open,2025-01-27
+TKT00315,CUST0336,ORD01220,Product Quality,The product received was damaged or poor quality.,High,In Progress,2026-01-13
+TKT00316,CUST0135,ORD03298,Missing Item,One or more items are missing from my order.,High,In Progress,2026-07-25
+TKT00317,CUST0153,ORD03652,Refund Request,I want a refund for my order.,Medium,Open,2026-08-07
+TKT00318,CUST0503,ORD03635,Payment Issue,My payment was deducted but order confirmation failed.,High,In Progress,2026-02-19
+TKT00319,CUST0841,ORD04694,Payment Issue,My payment was deducted but order confirmation failed.,High,In Progress,2025-08-15
+TKT00320,CUST0554,ORD03844,Refund Request,I want a refund for my order.,Low,Resolved,2026-08-26
+TKT00321,CUST0434,ORD01604,Delivery Delay,My order has not arrived on time.,Medium,Open,2025-03-09
+TKT00322,CUST0740,ORD00539,Product Quality,The product received was damaged or poor quality.,Low,In Progress,2025-12-28
+TKT00323,CUST0232,ORD03074,Product Quality,The product received was damaged or poor quality.,High,In Progress,2025-09-17
+TKT00324,CUST0512,ORD04581,Refund Request,I want a refund for my order.,High,Open,2026-10-20
+TKT00325,CUST0903,ORD04876,Refund Request,I want a refund for my order.,High,In Progress,2025-03-04
+TKT00326,CUST0958,ORD01152,Missing Item,One or more items are missing from my order.,High,Open,2026-09-15
+TKT00327,CUST0071,ORD01183,Missing Item,One or more items are missing from my order.,High,Open,2026-01-27
+TKT00328,CUST0693,ORD00188,Payment Issue,My payment was deducted but order confirmation failed.,Low,Resolved,2025-09-03
+TKT00329,CUST0901,ORD00707,Delivery Delay,My order has not arrived on time.,High,Open,2025-10-05
+TKT00330,CUST0012,ORD02775,Delivery Delay,My order has not arrived on time.,High,Resolved,2025-12-13
+TKT00331,CUST0245,ORD02735,Refund Request,I want a refund for my order.,Medium,In Progress,2026-01-07
+TKT00332,CUST0793,ORD01855,Payment Issue,My payment was deducted but order confirmation failed.,Medium,Open,2025-05-03
+TKT00333,CUST0563,ORD01550,Payment Issue,My payment was deducted but order confirmation failed.,High,Resolved,2025-02-26
+TKT00334,CUST0844,ORD04149,Missing Item,One or more items are missing from my order.,High,Open,2025-06-09
+TKT00335,CUST0496,ORD02301,Product Quality,The product received was damaged or poor quality.,High,In Progress,2025-05-07
+TKT00336,CUST0985,ORD04042,Delivery Delay,My order has not arrived on time.,High,Resolved,2026-08-30
+TKT00337,CUST0177,ORD04817,Payment Issue,My payment was deducted but order confirmation failed.,High,Resolved,2025-11-07
+TKT00338,CUST0833,ORD01586,Missing Item,One or more items are missing from my order.,High,Resolved,2026-06-02
+TKT00339,CUST0974,ORD01014,Missing Item,One or more items are missing from my order.,Low,In Progress,2025-09-22
+TKT00340,CUST0756,ORD04765,Missing Item,One or more items are missing from my order.,Low,Resolved,2025-10-15
+TKT00341,CUST0381,ORD03175,Product Quality,The product received was damaged or poor quality.,Low,In Progress,2026-02-24
+TKT00342,CUST0455,ORD01455,Payment Issue,My payment was deducted but order confirmation failed.,Medium,In Progress,2026-06-12
+TKT00343,CUST0075,ORD03110,Refund Request,I want a refund for my order.,High,Open,2025-05-20
+TKT00344,CUST0700,ORD02576,Refund Request,I want a refund for my order.,Medium,In Progress,2026-04-20
+TKT00345,CUST0538,ORD04528,Missing Item,One or more items are missing from my order.,Medium,Resolved,2026-09-29
+TKT00346,CUST0040,ORD01280,Missing Item,One or more items are missing from my order.,Medium,Resolved,2026-06-13
+TKT00347,CUST0694,ORD04957,Product Quality,The product received was damaged or poor quality.,Low,In Progress,2026-01-24
+TKT00348,CUST0012,ORD04681,Missing Item,One or more items are missing from my order.,High,In Progress,2026-05-26
+TKT00349,CUST0212,ORD00904,Payment Issue,My payment was deducted but order confirmation failed.,High,Open,2026-06-22
+TKT00350,CUST0326,ORD00824,Missing Item,One or more items are missing from my order.,Medium,Open,2025-08-01
+TKT00351,CUST0221,ORD02666,Missing Item,One or more items are missing from my order.,Low,Resolved,2026-05-28
+TKT00352,CUST0015,ORD00225,Payment Issue,My payment was deducted but order confirmation failed.,Medium,In Progress,2025-09-22
+TKT00353,CUST0950,ORD01494,Delivery Delay,My order has not arrived on time.,Medium,Resolved,2025-12-09
+TKT00354,CUST0481,ORD02176,Refund Request,I want a refund for my order.,High,In Progress,2025-02-07
+TKT00355,CUST0057,ORD04847,Missing Item,One or more items are missing from my order.,Low,Resolved,2025-08-21
+TKT00356,CUST0482,ORD04962,Payment Issue,My payment was deducted but order confirmation failed.,High,Resolved,2025-09-17
+TKT00357,CUST0218,ORD00758,Refund Request,I want a refund for my order.,Medium,Resolved,2025-11-04
+TKT00358,CUST0531,ORD04459,Product Quality,The product received was damaged or poor quality.,High,In Progress,2026-02-07
+TKT00359,CUST0475,ORD00455,Delivery Delay,My order has not arrived on time.,Medium,Open,2025-09-18
+TKT00360,CUST0990,ORD03744,Missing Item,One or more items are missing from my order.,Low,Open,2026-04-21
+TKT00361,CUST0061,ORD04229,Delivery Delay,My order has not arrived on time.,High,In Progress,2025-04-16
+TKT00362,CUST0155,ORD04454,Missing Item,One or more items are missing from my order.,High,Open,2025-09-04
+TKT00363,CUST0721,ORD01118,Missing Item,One or more items are missing from my order.,High,Resolved,2025-10-31
+TKT00364,CUST0433,ORD04468,Missing Item,One or more items are missing from my order.,High,In Progress,2025-12-09
+TKT00365,CUST0563,ORD00580,Delivery Delay,My order has not arrived on time.,High,In Progress,2026-03-23
+TKT00366,CUST0892,ORD02595,Product Quality,The product received was damaged or poor quality.,Low,Open,2025-02-07
+TKT00367,CUST0556,ORD02348,Payment Issue,My payment was deducted but order confirmation failed.,Low,Open,2025-02-15
+TKT00368,CUST0511,ORD01580,Payment Issue,My payment was deducted but order confirmation failed.,High,Resolved,2026-08-28
+TKT00369,CUST0665,ORD00111,Product Quality,The product received was damaged or poor quality.,Medium,In Progress,2025-08-08
+TKT00370,CUST0126,ORD03861,Product Quality,The product received was damaged or poor quality.,Medium,Open,2025-09-13
+TKT00371,CUST0207,ORD01678,Missing Item,One or more items are missing from my order.,High,In Progress,2025-05-17
+TKT00372,CUST0378,ORD03309,Missing Item,One or more items are missing from my order.,High,Resolved,2025-08-19
+TKT00373,CUST0851,ORD02052,Payment Issue,My payment was deducted but order confirmation failed.,Low,Resolved,2026-08-01
+TKT00374,CUST0237,ORD01869,Missing Item,One or more items are missing from my order.,Low,Resolved,2025-02-07
+TKT00375,CUST0496,ORD04432,Missing Item,One or more items are missing from my order.,High,In Progress,2025-06-04
+TKT00376,CUST0536,ORD00473,Product Quality,The product received was damaged or poor quality.,High,In Progress,2026-05-18
+TKT00377,CUST0045,ORD03684,Delivery Delay,My order has not arrived on time.,Medium,In Progress,2025-04-15
+TKT00378,CUST0189,ORD03734,Refund Request,I want a refund for my order.,Low,In Progress,2025-09-12
+TKT00379,CUST0937,ORD01900,Refund Request,I want a refund for my order.,High,In Progress,2026-02-08
+TKT00380,CUST0250,ORD01313,Missing Item,One or more items are missing from my order.,Low,Resolved,2026-05-03
+TKT00381,CUST0263,ORD00027,Missing Item,One or more items are missing from my order.,High,Resolved,2026-04-03
+TKT00382,CUST0774,ORD04685,Refund Request,I want a refund for my order.,High,Resolved,2026-06-12
+TKT00383,CUST0446,ORD04739,Product Quality,The product received was damaged or poor quality.,High,Open,2026-08-14
+TKT00384,CUST0629,ORD01205,Refund Request,I want a refund for my order.,High,Resolved,2026-06-09
+TKT00385,CUST0393,ORD00160,Refund Request,I want a refund for my order.,Medium,In Progress,2026-01-05
+TKT00386,CUST0575,ORD00614,Refund Request,I want a refund for my order.,High,Resolved,2025-04-12
+TKT00387,CUST0872,ORD00339,Missing Item,One or more items are missing from my order.,Medium,Open,2026-10-26
+TKT00388,CUST0532,ORD04156,Missing Item,One or more items are missing from my order.,Medium,Open,2026-08-22
+TKT00389,CUST0858,ORD04460,Refund Request,I want a refund for my order.,High,Open,2026-08-23
+TKT00390,CUST0412,ORD00767,Missing Item,One or more items are missing from my order.,Low,Open,2026-06-25
+TKT00391,CUST0189,ORD03734,Refund Request,I want a refund for my order.,Low,Open,2026-05-27
+TKT00392,CUST0860,ORD00897,Product Quality,The product received was damaged or poor quality.,High,In Progress,2026-01-24
+TKT00393,CUST0224,ORD01837,Missing Item,One or more items are missing from my order.,High,Resolved,2025-12-29
+TKT00394,CUST0112,ORD02997,Delivery Delay,My order has not arrived on time.,High,In Progress,2026-09-04
+TKT00395,CUST0109,ORD03600,Missing Item,One or more items are missing from my order.,Low,In Progress,2025-04-25
+TKT00396,CUST0292,ORD04373,Product Quality,The product received was damaged or poor quality.,Low,Open,2025-12-09
+TKT00397,CUST0738,ORD00224,Product Quality,The product received was damaged or poor quality.,High,Resolved,2025-03-15
+TKT00398,CUST0680,ORD00983,Missing Item,One or more items are missing from my order.,Low,Resolved,2025-05-15
+TKT00399,CUST0156,ORD01403,Payment Issue,My payment was deducted but order confirmation failed.,Medium,Resolved,2026-08-13
+TKT00400,CUST0780,ORD01552,Refund Request,I want a refund for my order.,Low,Open,2026-01-15
+TKT00401,CUST0773,ORD04991,Refund Request,I want a refund for my order.,Low,In Progress,2026-05-05
+TKT00402,CUST0328,ORD03888,Product Quality,The product received was damaged or poor quality.,High,Resolved,2025-05-05
+TKT00403,CUST0404,ORD01603,Missing Item,One or more items are missing from my order.,Medium,In Progress,2025-02-07
+TKT00404,CUST0698,ORD04860,Payment Issue,My payment was deducted but order confirmation failed.,High,Resolved,2025-11-06
+TKT00405,CUST0270,ORD02497,Delivery Delay,My order has not arrived on time.,Low,Resolved,2025-04-16
+TKT00406,CUST0791,ORD02504,Refund Request,I want a refund for my order.,Medium,Resolved,2026-07-10
+TKT00407,CUST0985,ORD02169,Payment Issue,My payment was deducted but order confirmation failed.,High,Resolved,2025-08-13
+TKT00408,CUST0059,ORD00720,Refund Request,I want a refund for my order.,Low,Open,2025-08-30
+TKT00409,CUST0106,ORD04672,Missing Item,One or more items are missing from my order.,Medium,Open,2026-02-01
+TKT00410,CUST0111,ORD00070,Refund Request,I want a refund for my order.,High,In Progress,2025-06-02
+TKT00411,CUST0176,ORD00872,Delivery Delay,My order has not arrived on time.,Medium,Open,2026-06-20
+TKT00412,CUST0137,ORD01149,Missing Item,One or more items are missing from my order.,Low,Resolved,2026-09-28
+TKT00413,CUST0222,ORD01397,Product Quality,The product received was damaged or poor quality.,High,In Progress,2026-02-06
+TKT00414,CUST0336,ORD00660,Payment Issue,My payment was deducted but order confirmation failed.,Low,In Progress,2025-05-26
+TKT00415,CUST0687,ORD00090,Refund Request,I want a refund for my order.,Medium,In Progress,2025-07-10
+TKT00416,CUST0016,ORD03389,Missing Item,One or more items are missing from my order.,Low,Resolved,2026-08-06
+TKT00417,CUST0057,ORD04847,Missing Item,One or more items are missing from my order.,Medium,Resolved,2025-07-20
+TKT00418,CUST0308,ORD00610,Refund Request,I want a refund for my order.,High,In Progress,2025-01-12
+TKT00419,CUST0351,ORD01483,Product Quality,The product received was damaged or poor quality.,Low,Open,2025-02-21
+TKT00420,CUST0025,ORD02532,Refund Request,I want a refund for my order.,High,Resolved,2025-10-29
+TKT00421,CUST0267,ORD04638,Product Quality,The product received was damaged or poor quality.,High,Resolved,2025-10-27
+TKT00422,CUST0269,ORD03472,Refund Request,I want a refund for my order.,High,Open,2026-06-05
+TKT00423,CUST0467,ORD03831,Missing Item,One or more items are missing from my order.,High,In Progress,2025-05-20
+TKT00424,CUST0912,ORD02906,Delivery Delay,My order has not arrived on time.,Low,Open,2025-04-10
+TKT00425,CUST0252,ORD02086,Delivery Delay,My order has not arrived on time.,Low,Resolved,2026-04-30
+TKT00426,CUST0205,ORD00999,Missing Item,One or more items are missing from my order.,High,In Progress,2025-05-17
+TKT00427,CUST0663,ORD04322,Delivery Delay,My order has not arrived on time.,High,In Progress,2026-01-01
+TKT00428,CUST0291,ORD04021,Product Quality,The product received was damaged or poor quality.,Medium,Open,2026-06-18
+TKT00429,CUST0647,ORD00126,Missing Item,One or more items are missing from my order.,High,Resolved,2026-05-22
+TKT00430,CUST0313,ORD03578,Product Quality,The product received was damaged or poor quality.,Medium,Resolved,2026-10-19
+TKT00431,CUST0588,ORD00422,Missing Item,One or more items are missing from my order.,Medium,In Progress,2025-06-10
+TKT00432,CUST0010,ORD03695,Product Quality,The product received was damaged or poor quality.,High,Resolved,2025-06-24
+TKT00433,CUST0775,ORD04130,Product Quality,The product received was damaged or poor quality.,Low,In Progress,2025-03-29
+TKT00434,CUST0339,ORD00656,Delivery Delay,My order has not arrived on time.,Medium,In Progress,2026-02-03
+TKT00435,CUST0852,ORD02170,Missing Item,One or more items are missing from my order.,Low,In Progress,2026-04-25
+TKT00436,CUST0109,ORD00619,Refund Request,I want a refund for my order.,High,Resolved,2026-06-29
+TKT00437,CUST0435,ORD02837,Delivery Delay,My order has not arrived on time.,High,Open,2026-04-22
+TKT00438,CUST0267,ORD04638,Product Quality,The product received was damaged or poor quality.,High,In Progress,2025-10-10
+TKT00439,CUST0901,ORD00405,Product Quality,The product received was damaged or poor quality.,High,Open,2026-03-28
+TKT00440,CUST0649,ORD01988,Refund Request,I want a refund for my order.,Medium,Open,2026-09-16
+TKT00441,CUST0108,ORD04866,Refund Request,I want a refund for my order.,Medium,Open,2025-03-23
+TKT00442,CUST0920,ORD01505,Product Quality,The product received was damaged or poor quality.,Low,Open,2025-08-01
+TKT00443,CUST1000,ORD00662,Refund Request,I want a refund for my order.,Low,Open,2026-06-04
+TKT00444,CUST0494,ORD02443,Payment Issue,My payment was deducted but order confirmation failed.,Medium,In Progress,2025-05-14
+TKT00445,CUST0597,ORD02542,Delivery Delay,My order has not arrived on time.,High,Resolved,2026-03-23
+TKT00446,CUST0881,ORD03315,Missing Item,One or more items are missing from my order.,Low,Open,2025-04-28
+TKT00447,CUST0694,ORD01569,Refund Request,I want a refund for my order.,Medium,Resolved,2026-08-19
+TKT00448,CUST0843,ORD04779,Refund Request,I want a refund for my order.,Low,Resolved,2025-08-31
+TKT00449,CUST0981,ORD02606,Payment Issue,My payment was deducted but order confirmation failed.,Medium,In Progress,2025-05-30
+TKT00450,CUST0534,ORD01433,Missing Item,One or more items are missing from my order.,High,Open,2026-06-17
+TKT00451,CUST0435,ORD04802,Payment Issue,My payment was deducted but order confirmation failed.,Medium,Resolved,2026-10-08
+TKT00452,CUST0693,ORD04625,Missing Item,One or more items are missing from my order.,Low,Resolved,2026-01-14
+TKT00453,CUST0599,ORD02496,Delivery Delay,My order has not arrived on time.,Medium,Open,2026-08-31
+TKT00454,CUST0973,ORD00125,Refund Request,I want a refund for my order.,Low,In Progress,2026-06-09
+TKT00455,CUST0895,ORD02985,Delivery Delay,My order has not arrived on time.,Low,In Progress,2026-05-28
+TKT00456,CUST0195,ORD02776,Missing Item,One or more items are missing from my order.,Low,Open,2026-10-24
+TKT00457,CUST0526,ORD00742,Refund Request,I want a refund for my order.,High,Resolved,2025-04-27
+TKT00458,CUST0330,ORD03170,Payment Issue,My payment was deducted but order confirmation failed.,High,In Progress,2026-10-26
+TKT00459,CUST0963,ORD04204,Product Quality,The product received was damaged or poor quality.,Medium,In Progress,2026-07-30
+TKT00460,CUST0411,ORD00530,Payment Issue,My payment was deducted but order confirmation failed.,Medium,Resolved,2026-10-24
+TKT00461,CUST0028,ORD03617,Product Quality,The product received was damaged or poor quality.,Low,Resolved,2025-11-13
+TKT00462,CUST0113,ORD00702,Payment Issue,My payment was deducted but order confirmation failed.,High,Resolved,2025-01-12
+TKT00463,CUST0117,ORD03745,Missing Item,One or more items are missing from my order.,Medium,Resolved,2025-03-31
+TKT00464,CUST0808,ORD02096,Delivery Delay,My order has not arrived on time.,Medium,Open,2026-01-23
+TKT00465,CUST0940,ORD00033,Product Quality,The product received was damaged or poor quality.,High,Resolved,2025-03-24
+TKT00466,CUST0741,ORD04832,Missing Item,One or more items are missing from my order.,Low,In Progress,2026-01-31
+TKT00467,CUST0258,ORD00830,Delivery Delay,My order has not arrived on time.,Medium,Resolved,2026-06-29
+TKT00468,CUST0532,ORD02981,Delivery Delay,My order has not arrived on time.,Low,Resolved,2026-10-23
+TKT00469,CUST0369,ORD00908,Refund Request,I want a refund for my order.,High,Open,2026-10-02
+TKT00470,CUST0780,ORD04666,Refund Request,I want a refund for my order.,High,Open,2025-04-10
+TKT00471,CUST0491,ORD03692,Refund Request,I want a refund for my order.,Medium,Resolved,2026-04-02
+TKT00472,CUST0485,ORD04022,Product Quality,The product received was damaged or poor quality.,Medium,Open,2025-11-24
+TKT00473,CUST0129,ORD02161,Product Quality,The product received was damaged or poor quality.,High,Open,2025-03-15
+TKT00474,CUST0448,ORD02337,Delivery Delay,My order has not arrived on time.,Low,Open,2025-04-06
+TKT00475,CUST0441,ORD03172,Product Quality,The product received was damaged or poor quality.,Low,Open,2025-04-02
+TKT00476,CUST0929,ORD03924,Delivery Delay,My order has not arrived on time.,High,Resolved,2025-11-26
+TKT00477,CUST0065,ORD04235,Missing Item,One or more items are missing from my order.,Medium,Open,2025-06-24
+TKT00478,CUST0687,ORD00090,Payment Issue,My payment was deducted but order confirmation failed.,High,Open,2025-11-11
+TKT00479,CUST0984,ORD03318,Delivery Delay,My order has not arrived on time.,Medium,In Progress,2026-07-22
+TKT00480,CUST0661,ORD00546,Delivery Delay,My order has not arrived on time.,Low,Resolved,2026-05-12
+TKT00481,CUST0517,ORD01440,Missing Item,One or more items are missing from my order.,Medium,Open,2025-09-26
+TKT00482,CUST0431,ORD04148,Refund Request,I want a refund for my order.,Low,In Progress,2026-03-04
+TKT00483,CUST0751,ORD01253,Refund Request,I want a refund for my order.,High,Open,2025-02-04
+TKT00484,CUST0781,ORD03985,Refund Request,I want a refund for my order.,Medium,Resolved,2025-04-29
+TKT00485,CUST0753,ORD02316,Delivery Delay,My order has not arrived on time.,Low,In Progress,2026-01-06
+TKT00486,CUST0141,ORD01164,Delivery Delay,My order has not arrived on time.,Medium,In Progress,2026-07-22
+TKT00487,CUST0465,ORD01672,Product Quality,The product received was damaged or poor quality.,Low,Resolved,2026-03-27
+TKT00488,CUST0965,ORD02654,Product Quality,The product received was damaged or poor quality.,Low,In Progress,2025-11-05
+TKT00489,CUST0467,ORD03826,Payment Issue,My payment was deducted but order confirmation failed.,High,In Progress,2025-12-23
+TKT00490,CUST0211,ORD03031,Payment Issue,My payment was deducted but order confirmation failed.,High,Open,2026-01-11
+TKT00491,CUST0871,ORD04667,Product Quality,The product received was damaged or poor quality.,Medium,In Progress,2025-04-15
+TKT00492,CUST0010,ORD04339,Delivery Delay,My order has not arrived on time.,Low,Resolved,2026-01-25
+TKT00493,CUST0615,ORD03767,Missing Item,One or more items are missing from my order.,High,Open,2025-06-25
+TKT00494,CUST0987,ORD03016,Product Quality,The product received was damaged or poor quality.,Medium,In Progress,2025-04-16
+TKT00495,CUST0699,ORD01450,Delivery Delay,My order has not arrived on time.,High,Open,2026-08-15
+TKT00496,CUST0119,ORD02063,Product Quality,The product received was damaged or poor quality.,Medium,Resolved,2025-06-12
+TKT00497,CUST0378,ORD00595,Refund Request,I want a refund for my order.,High,In Progress,2025-09-24
+TKT00498,CUST0738,ORD01871,Product Quality,The product received was damaged or poor quality.,High,Resolved,2026-07-17
+TKT00499,CUST0154,ORD04633,Refund Request,I want a refund for my order.,Low,Resolved,2025-10-06
+TKT00500,CUST0360,ORD02130,Delivery Delay,My order has not arrived on time.,Low,In Progress,2025-10-30
+TKT00501,CUST0436,ORD00569,Refund Request,I want a refund for my order.,High,In Progress,2026-08-10
+TKT00502,CUST0664,ORD03260,Product Quality,The product received was damaged or poor quality.,Low,Open,2025-05-07
+TKT00503,CUST0906,ORD04814,Refund Request,I want a refund for my order.,High,Resolved,2025-09-03
+TKT00504,CUST0103,ORD04338,Missing Item,One or more items are missing from my order.,Medium,In Progress,2025-08-22
+TKT00505,CUST0716,ORD01371,Refund Request,I want a refund for my order.,High,Resolved,2026-10-29
+TKT00506,CUST0588,ORD02270,Refund Request,I want a refund for my order.,High,In Progress,2026-08-08
+TKT00507,CUST0868,ORD02656,Payment Issue,My payment was deducted but order confirmation failed.,Medium,Resolved,2026-03-15
+TKT00508,CUST0542,ORD01240,Missing Item,One or more items are missing from my order.,Medium,Open,2025-05-17
+TKT00509,CUST0789,ORD01344,Delivery Delay,My order has not arrived on time.,Low,Resolved,2026-07-10
+TKT00510,CUST0269,ORD01184,Refund Request,I want a refund for my order.,Medium,In Progress,2025-05-29
+TKT00511,CUST0042,ORD04973,Missing Item,One or more items are missing from my order.,Low,Open,2025-02-25
+TKT00512,CUST0938,ORD03731,Delivery Delay,My order has not arrived on time.,High,Open,2025-12-22
+TKT00513,CUST0568,ORD04205,Missing Item,One or more items are missing from my order.,Medium,In Progress,2025-09-14
+TKT00514,CUST0683,ORD04083,Payment Issue,My payment was deducted but order confirmation failed.,High,Open,2025-03-04
+TKT00515,CUST0687,ORD04796,Delivery Delay,My order has not arrived on time.,Low,Resolved,2025-03-04
+TKT00516,CUST0869,ORD00527,Delivery Delay,My order has not arrived on time.,Medium,Resolved,2025-01-29
+TKT00517,CUST0984,ORD04409,Refund Request,I want a refund for my order.,Low,In Progress,2026-07-06
+TKT00518,CUST0255,ORD00333,Product Quality,The product received was damaged or poor quality.,Low,Resolved,2026-10-21
+TKT00519,CUST0141,ORD02378,Delivery Delay,My order has not arrived on time.,Medium,In Progress,2026-08-23
+TKT00520,CUST0566,ORD02973,Delivery Delay,My order has not arrived on time.,Medium,Open,2026-07-22
+TKT00521,CUST0777,ORD01790,Payment Issue,My payment was deducted but order confirmation failed.,Low,Resolved,2025-10-27
+TKT00522,CUST0990,ORD00731,Payment Issue,My payment was deducted but order confirmation failed.,Medium,In Progress,2026-09-04
+TKT00523,CUST0619,ORD00962,Payment Issue,My payment was deducted but order confirmation failed.,Low,Resolved,2025-08-03
+TKT00524,CUST0708,ORD04124,Refund Request,I want a refund for my order.,High,Open,2025-05-21
+TKT00525,CUST0406,ORD01594,Delivery Delay,My order has not arrived on time.,High,Open,2026-05-22
+TKT00526,CUST0780,ORD01552,Payment Issue,My payment was deducted but order confirmation failed.,Medium,Resolved,2026-07-15
+TKT00527,CUST0069,ORD04617,Payment Issue,My payment was deducted but order confirmation failed.,Medium,Open,2026-05-14
+TKT00528,CUST0059,ORD00720,Missing Item,One or more items are missing from my order.,High,In Progress,2026-09-19
+TKT00529,CUST0183,ORD04577,Missing Item,One or more items are missing from my order.,Low,Resolved,2026-05-17
+TKT00530,CUST0480,ORD04605,Payment Issue,My payment was deducted but order confirmation failed.,Low,Resolved,2026-08-10
+TKT00531,CUST0852,ORD02993,Refund Request,I want a refund for my order.,Low,Open,2025-07-10
+TKT00532,CUST0059,ORD00828,Product Quality,The product received was damaged or poor quality.,Medium,In Progress,2026-10-13
+TKT00533,CUST0387,ORD00780,Missing Item,One or more items are missing from my order.,Low,Resolved,2025-02-18
+TKT00534,CUST0869,ORD01424,Missing Item,One or more items are missing from my order.,Medium,Resolved,2025-12-29
+TKT00535,CUST0195,ORD02888,Delivery Delay,My order has not arrived on time.,Medium,Open,2026-09-19
+TKT00536,CUST0681,ORD00769,Delivery Delay,My order has not arrived on time.,Medium,Open,2026-05-11
+TKT00537,CUST0761,ORD02279,Payment Issue,My payment was deducted but order confirmation failed.,High,In Progress,2025-10-04
+TKT00538,CUST0191,ORD00578,Delivery Delay,My order has not arrived on time.,Low,In Progress,2025-02-16
+TKT00539,CUST0649,ORD02702,Delivery Delay,My order has not arrived on time.,Medium,Open,2025-08-04
+TKT00540,CUST0134,ORD00106,Product Quality,The product received was damaged or poor quality.,Low,In Progress,2025-08-18
+TKT00541,CUST0419,ORD03546,Refund Request,I want a refund for my order.,High,Open,2026-10-01
+TKT00542,CUST0357,ORD00277,Payment Issue,My payment was deducted but order confirmation failed.,Low,Resolved,2025-11-19
+TKT00543,CUST0853,ORD00975,Product Quality,The product received was damaged or poor quality.,High,Open,2026-02-25
+TKT00544,CUST0657,ORD00874,Payment Issue,My payment was deducted but order confirmation failed.,Medium,Open,2025-08-13
+TKT00545,CUST0128,ORD04155,Refund Request,I want a refund for my order.,Medium,Open,2026-10-24
+TKT00546,CUST0867,ORD00267,Payment Issue,My payment was deducted but order confirmation failed.,High,Resolved,2025-10-14
+TKT00547,CUST0282,ORD02147,Delivery Delay,My order has not arrived on time.,Medium,In Progress,2025-02-15
+TKT00548,CUST0607,ORD02956,Refund Request,I want a refund for my order.,Low,In Progress,2025-01-14
+TKT00549,CUST0758,ORD02580,Product Quality,The product received was damaged or poor quality.,Low,In Progress,2026-09-25
+TKT00550,CUST0408,ORD03404,Product Quality,The product received was damaged or poor quality.,High,Open,2026-01-10
+TKT00551,CUST0340,ORD04016,Missing Item,One or more items are missing from my order.,Low,Open,2025-11-29
+TKT00552,CUST0567,ORD01969,Product Quality,The product received was damaged or poor quality.,Medium,In Progress,2025-06-15
+TKT00553,CUST0797,ORD04142,Missing Item,One or more items are missing from my order.,Medium,Resolved,2026-05-22
+TKT00554,CUST0193,ORD01590,Delivery Delay,My order has not arrived on time.,Medium,Resolved,2025-04-27
+TKT00555,CUST0221,ORD04923,Product Quality,The product received was damaged or poor quality.,Low,Resolved,2026-09-28
+TKT00556,CUST0586,ORD02523,Refund Request,I want a refund for my order.,Medium,Resolved,2026-07-20
+TKT00557,CUST0546,ORD03681,Missing Item,One or more items are missing from my order.,Low,Open,2026-03-15
+TKT00558,CUST0013,ORD04376,Product Quality,The product received was damaged or poor quality.,High,In Progress,2025-10-31
+TKT00559,CUST0271,ORD03964,Delivery Delay,My order has not arrived on time.,Medium,Resolved,2026-04-02
+TKT00560,CUST0327,ORD04256,Refund Request,I want a refund for my order.,High,Open,2025-09-28
+TKT00561,CUST0009,ORD02683,Refund Request,I want a refund for my order.,Low,Open,2025-08-04
+TKT00562,CUST0248,ORD00218,Delivery Delay,My order has not arrived on time.,Low,Open,2025-04-23
+TKT00563,CUST0106,ORD02466,Product Quality,The product received was damaged or poor quality.,High,In Progress,2025-01-16
+TKT00564,CUST0369,ORD00908,Payment Issue,My payment was deducted but order confirmation failed.,Medium,Open,2025-08-04
+TKT00565,CUST0376,ORD04446,Product Quality,The product received was damaged or poor quality.,Medium,In Progress,2026-03-03
+TKT00566,CUST0269,ORD01184,Missing Item,One or more items are missing from my order.,Medium,In Progress,2025-05-15
+TKT00567,CUST0118,ORD01141,Missing Item,One or more items are missing from my order.,High,In Progress,2025-02-12
+TKT00568,CUST0194,ORD01247,Product Quality,The product received was damaged or poor quality.,Low,In Progress,2025-10-11
+TKT00569,CUST0658,ORD03213,Missing Item,One or more items are missing from my order.,High,Open,2025-04-08
+TKT00570,CUST0906,ORD02857,Payment Issue,My payment was deducted but order confirmation failed.,Low,Open,2025-03-01
+TKT00571,CUST0294,ORD04745,Payment Issue,My payment was deducted but order confirmation failed.,Medium,Open,2025-08-18
+TKT00572,CUST0700,ORD02082,Refund Request,I want a refund for my order.,Medium,Resolved,2026-10-05
+TKT00573,CUST0586,ORD01412,Missing Item,One or more items are missing from my order.,Low,Resolved,2026-01-20
+TKT00574,CUST0093,ORD00247,Product Quality,The product received was damaged or poor quality.,Medium,In Progress,2025-06-08
+TKT00575,CUST0488,ORD00036,Refund Request,I want a refund for my order.,High,In Progress,2026-04-16
+TKT00576,CUST0237,ORD01869,Payment Issue,My payment was deducted but order confirmation failed.,Low,In Progress,2026-08-19
+TKT00577,CUST0093,ORD04630,Refund Request,I want a refund for my order.,Medium,In Progress,2025-07-27
+TKT00578,CUST0663,ORD02619,Delivery Delay,My order has not arrived on time.,Medium,In Progress,2025-06-23
+TKT00579,CUST0433,ORD04468,Missing Item,One or more items are missing from my order.,Medium,Resolved,2025-03-22
+TKT00580,CUST0691,ORD00509,Product Quality,The product received was damaged or poor quality.,Medium,In Progress,2025-01-18
+TKT00581,CUST0959,ORD00467,Payment Issue,My payment was deducted but order confirmation failed.,Low,Open,2025-10-18
+TKT00582,CUST0967,ORD04168,Refund Request,I want a refund for my order.,Low,In Progress,2025-12-26
+TKT00583,CUST0382,ORD00534,Product Quality,The product received was damaged or poor quality.,Medium,Open,2025-10-06
+TKT00584,CUST0863,ORD00260,Missing Item,One or more items are missing from my order.,High,Open,2026-02-01
+TKT00585,CUST0481,ORD02021,Product Quality,The product received was damaged or poor quality.,High,Open,2025-05-22
+TKT00586,CUST0693,ORD04625,Missing Item,One or more items are missing from my order.,High,Open,2026-06-01
+TKT00587,CUST0179,ORD03447,Missing Item,One or more items are missing from my order.,High,In Progress,2025-09-08
+TKT00588,CUST0326,ORD00496,Missing Item,One or more items are missing from my order.,Low,In Progress,2026-10-24
+TKT00589,CUST0554,ORD04186,Refund Request,I want a refund for my order.,Low,In Progress,2026-06-24
+TKT00590,CUST0710,ORD04218,Missing Item,One or more items are missing from my order.,High,In Progress,2025-08-25
+TKT00591,CUST0014,ORD04004,Product Quality,The product received was damaged or poor quality.,Low,In Progress,2025-05-12
+TKT00592,CUST0860,ORD04514,Delivery Delay,My order has not arrived on time.,High,Resolved,2025-11-02
+TKT00593,CUST0251,ORD01200,Product Quality,The product received was damaged or poor quality.,Medium,Open,2025-12-24
+TKT00594,CUST0366,ORD04898,Refund Request,I want a refund for my order.,Medium,Open,2025-10-12
+TKT00595,CUST0434,ORD01604,Missing Item,One or more items are missing from my order.,High,Resolved,2025-10-20
+TKT00596,CUST0974,ORD04011,Delivery Delay,My order has not arrived on time.,Low,Resolved,2025-06-12
+TKT00597,CUST0661,ORD02897,Refund Request,I want a refund for my order.,High,In Progress,2026-02-23
+TKT00598,CUST0897,ORD03898,Payment Issue,My payment was deducted but order confirmation failed.,Low,In Progress,2026-04-13
+TKT00599,CUST0963,ORD03140,Payment Issue,My payment was deducted but order confirmation failed.,Medium,Open,2026-10-04
+TKT00600,CUST0658,ORD03213,Payment Issue,My payment was deducted but order confirmation failed.,Low,In Progress,2026-07-24
+TKT00601,CUST0267,ORD03082,Delivery Delay,My order has not arrived on time.,High,Open,2026-05-22
+TKT00602,CUST0327,ORD03895,Product Quality,The product received was damaged or poor quality.,Medium,In Progress,2026-10-20
+TKT00603,CUST0542,ORD03696,Delivery Delay,My order has not arrived on time.,Medium,In Progress,2026-04-23
+TKT00604,CUST0458,ORD00673,Delivery Delay,My order has not arrived on time.,Low,Open,2025-12-28
+TKT00605,CUST0296,ORD04131,Delivery Delay,My order has not arrived on time.,Medium,Resolved,2025-11-08
+TKT00606,CUST0441,ORD02681,Payment Issue,My payment was deducted but order confirmation failed.,Medium,Resolved,2026-09-26
+TKT00607,CUST0166,ORD01616,Product Quality,The product received was damaged or poor quality.,Low,In Progress,2025-09-02
+TKT00608,CUST0239,ORD02572,Delivery Delay,My order has not arrived on time.,Medium,Resolved,2026-04-22
+TKT00609,CUST0954,ORD04835,Product Quality,The product received was damaged or poor quality.,High,In Progress,2026-09-07
+TKT00610,CUST0044,ORD04288,Missing Item,One or more items are missing from my order.,Low,Resolved,2026-03-12
+TKT00611,CUST0083,ORD04169,Delivery Delay,My order has not arrived on time.,Low,Resolved,2025-09-07
+TKT00612,CUST0795,ORD02314,Delivery Delay,My order has not arrived on time.,Low,Open,2025-01-22
+TKT00613,CUST0843,ORD03921,Delivery Delay,My order has not arrived on time.,Low,Resolved,2026-04-22
+TKT00614,CUST0273,ORD01926,Missing Item,One or more items are missing from my order.,High,In Progress,2026-07-26
+TKT00615,CUST0134,ORD03431,Missing Item,One or more items are missing from my order.,Low,Open,2026-05-26
+TKT00616,CUST0189,ORD03198,Payment Issue,My payment was deducted but order confirmation failed.,High,Resolved,2025-12-02
+TKT00617,CUST0648,ORD01249,Refund Request,I want a refund for my order.,Low,Open,2026-10-08
+TKT00618,CUST0265,ORD01333,Product Quality,The product received was damaged or poor quality.,Low,Resolved,2025-12-08
+TKT00619,CUST0008,ORD00306,Refund Request,I want a refund for my order.,Medium,In Progress,2025-12-04
+TKT00620,CUST0840,ORD00699,Delivery Delay,My order has not arrived on time.,Medium,In Progress,2026-04-25
+TKT00621,CUST0985,ORD02169,Delivery Delay,My order has not arrived on time.,High,Open,2025-02-11
+TKT00622,CUST0720,ORD02390,Payment Issue,My payment was deducted but order confirmation failed.,Medium,Resolved,2025-03-15
+TKT00623,CUST0443,ORD00826,Refund Request,I want a refund for my order.,Low,Resolved,2025-01-22
+TKT00624,CUST0186,ORD02085,Delivery Delay,My order has not arrived on time.,High,Open,2025-08-08
+TKT00625,CUST0188,ORD03021,Refund Request,I want a refund for my order.,Medium,Open,2025-03-20
+TKT00626,CUST0499,ORD01163,Payment Issue,My payment was deducted but order confirmation failed.,Low,In Progress,2025-08-23
+TKT00627,CUST0810,ORD01692,Refund Request,I want a refund for my order.,Medium,Open,2025-06-06
+TKT00628,CUST0830,ORD01838,Product Quality,The product received was damaged or poor quality.,Medium,Resolved,2025-11-23
+TKT00629,CUST0494,ORD02526,Payment Issue,My payment was deducted but order confirmation failed.,Medium,Open,2025-04-24
+TKT00630,CUST0439,ORD01832,Refund Request,I want a refund for my order.,Medium,In Progress,2026-08-31
+TKT00631,CUST0646,ORD03685,Delivery Delay,My order has not arrived on time.,Low,Open,2026-10-04
+TKT00632,CUST0660,ORD01638,Missing Item,One or more items are missing from my order.,Medium,Resolved,2026-09-13
+TKT00633,CUST0852,ORD02170,Missing Item,One or more items are missing from my order.,High,Open,2026-08-10
+TKT00634,CUST0345,ORD01898,Payment Issue,My payment was deducted but order confirmation failed.,High,Open,2025-10-02
+TKT00635,CUST0575,ORD00915,Missing Item,One or more items are missing from my order.,Medium,Open,2026-01-16
+TKT00636,CUST0791,ORD03429,Product Quality,The product received was damaged or poor quality.,High,In Progress,2025-01-20
+TKT00637,CUST0295,ORD01178,Payment Issue,My payment was deducted but order confirmation failed.,Medium,In Progress,2025-07-28
+TKT00638,CUST0400,ORD01485,Delivery Delay,My order has not arrived on time.,Low,In Progress,2026-08-29
+TKT00639,CUST0271,ORD03964,Delivery Delay,My order has not arrived on time.,Low,In Progress,2026-08-17
+TKT00640,CUST0294,ORD04745,Payment Issue,My payment was deducted but order confirmation failed.,High,Resolved,2026-09-08
+TKT00641,CUST0807,ORD03355,Missing Item,One or more items are missing from my order.,High,Resolved,2025-06-09
+TKT00642,CUST0612,ORD04582,Missing Item,One or more items are missing from my order.,Medium,In Progress,2026-07-27
+TKT00643,CUST0129,ORD04271,Delivery Delay,My order has not arrived on time.,Medium,In Progress,2025-02-07
+TKT00644,CUST0792,ORD02405,Product Quality,The product received was damaged or poor quality.,Medium,In Progress,2025-04-28
+TKT00645,CUST0546,ORD03852,Missing Item,One or more items are missing from my order.,Low,Open,2026-01-25
+TKT00646,CUST0986,ORD01642,Product Quality,The product received was damaged or poor quality.,Medium,Resolved,2026-01-12
+TKT00647,CUST0429,ORD02303,Missing Item,One or more items are missing from my order.,Low,Open,2026-01-11
+TKT00648,CUST0116,ORD02678,Payment Issue,My payment was deducted but order confirmation failed.,High,In Progress,2026-08-04
+TKT00649,CUST0882,ORD04803,Refund Request,I want a refund for my order.,Low,Resolved,2026-08-18
+TKT00650,CUST0535,ORD04243,Delivery Delay,My order has not arrived on time.,High,In Progress,2025-02-11
+TKT00651,CUST0919,ORD02447,Payment Issue,My payment was deducted but order confirmation failed.,Low,Open,2026-09-03
+TKT00652,CUST0101,ORD03263,Missing Item,One or more items are missing from my order.,Low,Resolved,2026-04-15
+TKT00653,CUST0823,ORD01012,Delivery Delay,My order has not arrived on time.,Medium,Open,2026-04-03
+TKT00654,CUST0485,ORD04022,Refund Request,I want a refund for my order.,High,Resolved,2025-05-10
+TKT00655,CUST0531,ORD02766,Refund Request,I want a refund for my order.,Low,In Progress,2025-01-28
+TKT00656,CUST0830,ORD02664,Missing Item,One or more items are missing from my order.,Low,Resolved,2026-09-21
+TKT00657,CUST0305,ORD03832,Delivery Delay,My order has not arrived on time.,High,Open,2025-11-22
+TKT00658,CUST0519,ORD03165,Missing Item,One or more items are missing from my order.,Low,Open,2026-05-24
+TKT00659,CUST0129,ORD00363,Refund Request,I want a refund for my order.,High,Open,2026-09-11
+TKT00660,CUST0828,ORD01441,Payment Issue,My payment was deducted but order confirmation failed.,High,Open,2025-11-21
+TKT00661,CUST0127,ORD00884,Payment Issue,My payment was deducted but order confirmation failed.,High,In Progress,2025-06-09
+TKT00662,CUST0930,ORD03675,Product Quality,The product received was damaged or poor quality.,Low,Open,2026-05-31
+TKT00663,CUST0492,ORD00176,Refund Request,I want a refund for my order.,Low,In Progress,2026-10-23
+TKT00664,CUST0003,ORD01013,Refund Request,I want a refund for my order.,Medium,Resolved,2025-09-11
+TKT00665,CUST0111,ORD02988,Missing Item,One or more items are missing from my order.,High,Open,2025-09-05
+TKT00666,CUST0537,ORD03474,Product Quality,The product received was damaged or poor quality.,Low,Resolved,2025-12-19
+TKT00667,CUST0994,ORD02517,Product Quality,The product received was damaged or poor quality.,Low,Resolved,2026-02-02
+TKT00668,CUST0609,ORD04304,Delivery Delay,My order has not arrived on time.,High,In Progress,2026-08-05
+TKT00669,CUST0018,ORD04595,Missing Item,One or more items are missing from my order.,High,Open,2025-07-22
+TKT00670,CUST0390,ORD00661,Payment Issue,My payment was deducted but order confirmation failed.,High,In Progress,2025-10-29
+TKT00671,CUST0732,ORD04763,Delivery Delay,My order has not arrived on time.,Medium,Open,2025-05-28
+TKT00672,CUST0577,ORD03072,Product Quality,The product received was damaged or poor quality.,Medium,Resolved,2025-08-09
+TKT00673,CUST0748,ORD03182,Payment Issue,My payment was deducted but order confirmation failed.,Medium,In Progress,2026-07-14
+TKT00674,CUST0290,ORD00476,Refund Request,I want a refund for my order.,High,Open,2025-09-20
+TKT00675,CUST0075,ORD03110,Missing Item,One or more items are missing from my order.,Low,Resolved,2025-10-23
+TKT00676,CUST0941,ORD03629,Product Quality,The product received was damaged or poor quality.,High,In Progress,2025-11-11
+TKT00677,CUST0710,ORD02904,Refund Request,I want a refund for my order.,Low,In Progress,2025-10-19
+TKT00678,CUST0282,ORD00423,Product Quality,The product received was damaged or poor quality.,Medium,In Progress,2025-01-31
+TKT00679,CUST0613,ORD02617,Payment Issue,My payment was deducted but order confirmation failed.,Medium,In Progress,2025-02-13
+TKT00680,CUST0642,ORD04680,Delivery Delay,My order has not arrived on time.,Medium,Resolved,2026-07-09
+TKT00681,CUST0937,ORD03618,Payment Issue,My payment was deducted but order confirmation failed.,Low,Resolved,2025-05-14
+TKT00682,CUST0206,ORD00688,Missing Item,One or more items are missing from my order.,Low,Resolved,2025-12-15
+TKT00683,CUST0596,ORD04800,Missing Item,One or more items are missing from my order.,High,Resolved,2025-08-07
+TKT00684,CUST0530,ORD04795,Product Quality,The product received was damaged or poor quality.,High,Open,2026-03-26
+TKT00685,CUST0790,ORD00847,Payment Issue,My payment was deducted but order confirmation failed.,High,Resolved,2026-05-19
+TKT00686,CUST0392,ORD04005,Delivery Delay,My order has not arrived on time.,Medium,In Progress,2025-03-27
+TKT00687,CUST0933,ORD02034,Missing Item,One or more items are missing from my order.,High,In Progress,2025-09-08
+TKT00688,CUST0855,ORD02969,Delivery Delay,My order has not arrived on time.,Medium,In Progress,2025-09-22
+TKT00689,CUST0056,ORD02226,Refund Request,I want a refund for my order.,Low,In Progress,2026-06-07
+TKT00690,CUST0464,ORD03914,Product Quality,The product received was damaged or poor quality.,Medium,Open,2025-03-21
+TKT00691,CUST0307,ORD04984,Delivery Delay,My order has not arrived on time.,Medium,In Progress,2026-09-13
+TKT00692,CUST0984,ORD03976,Product Quality,The product received was damaged or poor quality.,Medium,In Progress,2026-04-06
+TKT00693,CUST0522,ORD04657,Refund Request,I want a refund for my order.,Low,In Progress,2026-09-22
+TKT00694,CUST0294,ORD04731,Delivery Delay,My order has not arrived on time.,Low,Resolved,2025-09-09
+TKT00695,CUST0558,ORD00451,Delivery Delay,My order has not arrived on time.,High,Resolved,2025-01-18
+TKT00696,CUST0335,ORD01267,Refund Request,I want a refund for my order.,High,Open,2025-09-13
+TKT00697,CUST0343,ORD03610,Payment Issue,My payment was deducted but order confirmation failed.,High,Open,2025-09-02
+TKT00698,CUST0201,ORD02951,Delivery Delay,My order has not arrived on time.,Low,Open,2025-06-02
+TKT00699,CUST0235,ORD00251,Delivery Delay,My order has not arrived on time.,Low,In Progress,2026-09-01
+TKT00700,CUST0290,ORD00476,Missing Item,One or more items are missing from my order.,Low,Open,2026-05-15
+TKT00701,CUST0465,ORD02603,Payment Issue,My payment was deducted but order confirmation failed.,Low,Resolved,2026-04-03
+TKT00702,CUST0263,ORD03081,Delivery Delay,My order has not arrived on time.,Low,Resolved,2026-06-26
+TKT00703,CUST0079,ORD00839,Refund Request,I want a refund for my order.,Medium,Resolved,2025-04-25
+TKT00704,CUST0007,ORD00857,Product Quality,The product received was damaged or poor quality.,High,In Progress,2026-03-23
+TKT00705,CUST0728,ORD00647,Refund Request,I want a refund for my order.,Medium,In Progress,2025-12-19
+TKT00706,CUST0858,ORD02825,Payment Issue,My payment was deducted but order confirmation failed.,High,Open,2026-09-17
+TKT00707,CUST0356,ORD00040,Missing Item,One or more items are missing from my order.,Medium,Open,2026-06-25
+TKT00708,CUST0910,ORD02863,Missing Item,One or more items are missing from my order.,Low,Open,2025-11-18
+TKT00709,CUST0826,ORD02380,Missing Item,One or more items are missing from my order.,High,Open,2026-04-04
+TKT00710,CUST0815,ORD02330,Refund Request,I want a refund for my order.,Medium,In Progress,2025-08-14
+TKT00711,CUST0327,ORD03397,Product Quality,The product received was damaged or poor quality.,High,Resolved,2025-12-27
+TKT00712,CUST0861,ORD02614,Product Quality,The product received was damaged or poor quality.,Low,In Progress,2026-06-15
+TKT00713,CUST0664,ORD03639,Delivery Delay,My order has not arrived on time.,Low,Open,2025-04-22
+TKT00714,CUST0492,ORD03820,Product Quality,The product received was damaged or poor quality.,High,In Progress,2025-07-31
+TKT00715,CUST0373,ORD04601,Product Quality,The product received was damaged or poor quality.,High,Resolved,2025-08-21
+TKT00716,CUST0967,ORD03997,Delivery Delay,My order has not arrived on time.,Low,In Progress,2025-06-08
+TKT00717,CUST0703,ORD02589,Refund Request,I want a refund for my order.,Low,Resolved,2026-07-26
+TKT00718,CUST0624,ORD02461,Refund Request,I want a refund for my order.,Low,Open,2025-11-20
+TKT00719,CUST0640,ORD01179,Payment Issue,My payment was deducted but order confirmation failed.,Medium,In Progress,2025-04-03
+TKT00720,CUST0947,ORD02998,Refund Request,I want a refund for my order.,High,Open,2025-09-05
+TKT00721,CUST0210,ORD00696,Missing Item,One or more items are missing from my order.,Low,Open,2025-05-21
+TKT00722,CUST0522,ORD04657,Missing Item,One or more items are missing from my order.,High,Resolved,2026-02-08
+TKT00723,CUST0528,ORD04226,Payment Issue,My payment was deducted but order confirmation failed.,Medium,Resolved,2026-02-08
+TKT00724,CUST0313,ORD00599,Product Quality,The product received was damaged or poor quality.,Medium,Open,2026-08-24
+TKT00725,CUST0383,ORD03930,Payment Issue,My payment was deducted but order confirmation failed.,Low,Resolved,2026-10-29
+TKT00726,CUST0194,ORD00586,Delivery Delay,My order has not arrived on time.,High,Resolved,2026-02-18
+TKT00727,CUST0813,ORD03607,Payment Issue,My payment was deducted but order confirmation failed.,Medium,Open,2026-03-16
+TKT00728,CUST0084,ORD00439,Payment Issue,My payment was deducted but order confirmation failed.,High,Open,2025-08-21
+TKT00729,CUST0952,ORD02441,Missing Item,One or more items are missing from my order.,High,Resolved,2025-07-12
+TKT00730,CUST0770,ORD03290,Delivery Delay,My order has not arrived on time.,Low,Open,2025-04-09
+TKT00731,CUST0893,ORD03645,Delivery Delay,My order has not arrived on time.,Medium,Open,2025-04-23
+TKT00732,CUST0210,ORD02094,Payment Issue,My payment was deducted but order confirmation failed.,Medium,Resolved,2026-09-11
+TKT00733,CUST0084,ORD04609,Delivery Delay,My order has not arrived on time.,Medium,In Progress,2026-06-20
+TKT00734,CUST0482,ORD03872,Delivery Delay,My order has not arrived on time.,High,In Progress,2025-10-08
+TKT00735,CUST0312,ORD01042,Refund Request,I want a refund for my order.,Medium,Open,2026-06-07
+TKT00736,CUST0783,ORD03357,Delivery Delay,My order has not arrived on time.,Medium,Resolved,2025-12-16
+TKT00737,CUST0429,ORD03653,Product Quality,The product received was damaged or poor quality.,High,Open,2025-11-12
+TKT00738,CUST0212,ORD01669,Delivery Delay,My order has not arrived on time.,Medium,Resolved,2026-05-15
+TKT00739,CUST0491,ORD03692,Missing Item,One or more items are missing from my order.,Medium,Open,2026-06-21
+TKT00740,CUST0885,ORD04492,Refund Request,I want a refund for my order.,High,Open,2026-10-14
+TKT00741,CUST0161,ORD04086,Missing Item,One or more items are missing from my order.,Medium,Resolved,2026-09-27
+TKT00742,CUST0144,ORD03813,Missing Item,One or more items are missing from my order.,Low,Open,2026-03-12
+TKT00743,CUST0391,ORD03173,Product Quality,The product received was damaged or poor quality.,High,In Progress,2026-06-07
+TKT00744,CUST0938,ORD01353,Refund Request,I want a refund for my order.,Medium,In Progress,2026-08-16
+TKT00745,CUST0488,ORD03977,Payment Issue,My payment was deducted but order confirmation failed.,Low,Resolved,2026-03-20
+TKT00746,CUST0844,ORD01821,Delivery Delay,My order has not arrived on time.,High,Open,2026-09-13
+TKT00747,CUST0034,ORD02661,Product Quality,The product received was damaged or poor quality.,Medium,In Progress,2025-07-27
+TKT00748,CUST0075,ORD01573,Product Quality,The product received was damaged or poor quality.,High,Resolved,2025-10-03
+TKT00749,CUST0914,ORD01566,Payment Issue,My payment was deducted but order confirmation failed.,Low,Resolved,2026-05-12
+TKT00750,CUST0586,ORD00789,Product Quality,The product received was damaged or poor quality.,High,Resolved,2025-10-24
+TKT00751,CUST0766,ORD04807,Payment Issue,My payment was deducted but order confirmation failed.,Medium,In Progress,2026-01-09
+TKT00752,CUST0391,ORD00739,Payment Issue,My payment was deducted but order confirmation failed.,Low,In Progress,2026-07-29
+TKT00753,CUST0552,ORD00432,Payment Issue,My payment was deducted but order confirmation failed.,High,In Progress,2025-07-03
+TKT00754,CUST0012,ORD04681,Product Quality,The product received was damaged or poor quality.,Medium,In Progress,2025-02-01
+TKT00755,CUST0195,ORD02776,Payment Issue,My payment was deducted but order confirmation failed.,Medium,Open,2025-10-10
+TKT00756,CUST0890,ORD02190,Product Quality,The product received was damaged or poor quality.,Low,In Progress,2026-03-08
+TKT00757,CUST0070,ORD03688,Refund Request,I want a refund for my order.,Low,Resolved,2026-06-03
+TKT00758,CUST0500,ORD01917,Payment Issue,My payment was deducted but order confirmation failed.,High,Open,2026-04-07
+TKT00759,CUST0826,ORD00640,Product Quality,The product received was damaged or poor quality.,Medium,In Progress,2026-01-03
+TKT00760,CUST0702,ORD03649,Product Quality,The product received was damaged or poor quality.,Low,Open,2026-10-20
+TKT00761,CUST0419,ORD00880,Product Quality,The product received was damaged or poor quality.,Medium,Resolved,2025-09-09
+TKT00762,CUST0108,ORD02765,Delivery Delay,My order has not arrived on time.,High,In Progress,2025-06-15
+TKT00763,CUST0920,ORD04746,Delivery Delay,My order has not arrived on time.,Low,Open,2026-09-07
+TKT00764,CUST0012,ORD04681,Payment Issue,My payment was deducted but order confirmation failed.,High,In Progress,2026-06-13
+TKT00765,CUST0831,ORD01804,Refund Request,I want a refund for my order.,High,Open,2026-08-25
+TKT00766,CUST0312,ORD03902,Payment Issue,My payment was deducted but order confirmation failed.,Low,Open,2026-01-06
+TKT00767,CUST0448,ORD03064,Missing Item,One or more items are missing from my order.,High,Resolved,2026-08-21
+TKT00768,CUST0284,ORD02397,Missing Item,One or more items are missing from my order.,Medium,Resolved,2025-04-13
+TKT00769,CUST0124,ORD00700,Refund Request,I want a refund for my order.,Low,In Progress,2026-08-17
+TKT00770,CUST0206,ORD01882,Refund Request,I want a refund for my order.,Medium,In Progress,2025-05-06
+TKT00771,CUST0664,ORD03260,Refund Request,I want a refund for my order.,High,Open,2025-02-07
+TKT00772,CUST0144,ORD04934,Delivery Delay,My order has not arrived on time.,Low,Resolved,2025-12-14
+TKT00773,CUST0728,ORD00025,Delivery Delay,My order has not arrived on time.,Medium,Resolved,2025-08-01
+TKT00774,CUST0435,ORD03589,Missing Item,One or more items are missing from my order.,Medium,Open,2025-11-15
+TKT00775,CUST0538,ORD04232,Refund Request,I want a refund for my order.,Medium,Resolved,2026-03-02
+TKT00776,CUST0382,ORD04756,Product Quality,The product received was damaged or poor quality.,Medium,Resolved,2025-09-04
+TKT00777,CUST0802,ORD02120,Missing Item,One or more items are missing from my order.,Medium,Open,2026-10-10
+TKT00778,CUST0001,ORD00593,Refund Request,I want a refund for my order.,High,In Progress,2025-10-13
+TKT00779,CUST0682,ORD01355,Product Quality,The product received was damaged or poor quality.,High,In Progress,2025-08-19
+TKT00780,CUST0206,ORD04253,Refund Request,I want a refund for my order.,High,In Progress,2025-11-16
+TKT00781,CUST0176,ORD04390,Payment Issue,My payment was deducted but order confirmation failed.,High,Open,2026-05-27
+TKT00782,CUST0516,ORD03186,Product Quality,The product received was damaged or poor quality.,High,In Progress,2026-06-05
+TKT00783,CUST0575,ORD00614,Payment Issue,My payment was deducted but order confirmation failed.,High,Open,2025-08-13
+TKT00784,CUST0308,ORD00610,Delivery Delay,My order has not arrived on time.,High,Open,2026-05-21
+TKT00785,CUST0732,ORD02391,Missing Item,One or more items are missing from my order.,Medium,Resolved,2025-04-17
+TKT00786,CUST0190,ORD02942,Refund Request,I want a refund for my order.,High,Resolved,2026-08-30
+TKT00787,CUST0645,ORD00162,Missing Item,One or more items are missing from my order.,Medium,In Progress,2025-11-27
+TKT00788,CUST0134,ORD03431,Refund Request,I want a refund for my order.,Low,Open,2025-01-05
+TKT00789,CUST0884,ORD02723,Payment Issue,My payment was deducted but order confirmation failed.,High,In Progress,2026-04-13
+TKT00790,CUST0982,ORD00062,Product Quality,The product received was damaged or poor quality.,Medium,In Progress,2026-05-31
+TKT00791,CUST0471,ORD00479,Product Quality,The product received was damaged or poor quality.,Low,Resolved,2025-06-12
+TKT00792,CUST0439,ORD02272,Refund Request,I want a refund for my order.,Low,In Progress,2026-10-15
+TKT00793,CUST0758,ORD03613,Payment Issue,My payment was deducted but order confirmation failed.,Medium,In Progress,2026-06-15
+TKT00794,CUST0248,ORD04127,Refund Request,I want a refund for my order.,Medium,Resolved,2025-03-23
+TKT00795,CUST0087,ORD02157,Refund Request,I want a refund for my order.,Medium,In Progress,2026-04-26
+TKT00796,CUST0573,ORD01477,Refund Request,I want a refund for my order.,High,In Progress,2026-05-31
+TKT00797,CUST0792,ORD04842,Product Quality,The product received was damaged or poor quality.,Low,Open,2026-10-02
+TKT00798,CUST0687,ORD02293,Refund Request,I want a refund for my order.,High,In Progress,2025-07-06
+TKT00799,CUST0343,ORD01577,Product Quality,The product received was damaged or poor quality.,High,Resolved,2025-05-26
+TKT00800,CUST0138,ORD02212,Delivery Delay,My order has not arrived on time.,High,Resolved,2025-06-01
+TKT00801,CUST0770,ORD00061,Payment Issue,My payment was deducted but order confirmation failed.,Low,Open,2025-12-29
+TKT00802,CUST0928,ORD01510,Delivery Delay,My order has not arrived on time.,Low,Resolved,2025-04-03
+TKT00803,CUST0900,ORD02578,Refund Request,I want a refund for my order.,Low,Resolved,2025-01-31
+TKT00804,CUST0356,ORD04593,Product Quality,The product received was damaged or poor quality.,Medium,Resolved,2026-06-24
+TKT00805,CUST0491,ORD03692,Payment Issue,My payment was deducted but order confirmation failed.,High,In Progress,2026-10-11
+TKT00806,CUST0758,ORD03907,Missing Item,One or more items are missing from my order.,Medium,Open,2026-08-25
+TKT00807,CUST0130,ORD02725,Payment Issue,My payment was deducted but order confirmation failed.,Medium,Open,2025-02-18
+TKT00808,CUST0202,ORD00553,Payment Issue,My payment was deducted but order confirmation failed.,High,Open,2025-09-15
+TKT00809,CUST0871,ORD01955,Refund Request,I want a refund for my order.,Low,Open,2026-06-02
+TKT00810,CUST0683,ORD04986,Delivery Delay,My order has not arrived on time.,High,Resolved,2026-06-25
+TKT00811,CUST0946,ORD00221,Delivery Delay,My order has not arrived on time.,Medium,In Progress,2026-02-14
+TKT00812,CUST0424,ORD04397,Missing Item,One or more items are missing from my order.,Low,Resolved,2025-06-05
+TKT00813,CUST0494,ORD03423,Refund Request,I want a refund for my order.,Low,Resolved,2026-06-30
+TKT00814,CUST0887,ORD01420,Payment Issue,My payment was deducted but order confirmation failed.,Medium,Resolved,2026-03-16
+TKT00815,CUST0788,ORD03890,Delivery Delay,My order has not arrived on time.,Low,Resolved,2025-08-25
+TKT00816,CUST0425,ORD04185,Delivery Delay,My order has not arrived on time.,Low,Open,2026-10-12
+TKT00817,CUST0459,ORD00217,Product Quality,The product received was damaged or poor quality.,High,Open,2026-01-03
+TKT00818,CUST0185,ORD00533,Payment Issue,My payment was deducted but order confirmation failed.,High,In Progress,2025-02-26
+TKT00819,CUST0567,ORD03329,Refund Request,I want a refund for my order.,Medium,Resolved,2025-06-24
+TKT00820,CUST0522,ORD04996,Delivery Delay,My order has not arrived on time.,Medium,Open,2025-08-02
+TKT00821,CUST0528,ORD00120,Refund Request,I want a refund for my order.,Medium,In Progress,2025-01-27
+TKT00822,CUST0567,ORD03329,Payment Issue,My payment was deducted but order confirmation failed.,Low,Resolved,2025-04-29
+TKT00823,CUST0883,ORD00683,Payment Issue,My payment was deducted but order confirmation failed.,Medium,Resolved,2025-05-27
+TKT00824,CUST0442,ORD03251,Delivery Delay,My order has not arrived on time.,High,Open,2025-09-22
+TKT00825,CUST0348,ORD03117,Missing Item,One or more items are missing from my order.,Low,Resolved,2026-02-07
+TKT00826,CUST0494,ORD00453,Refund Request,I want a refund for my order.,Medium,Resolved,2025-09-15
+TKT00827,CUST0408,ORD03404,Refund Request,I want a refund for my order.,Low,Open,2025-07-08
+TKT00828,CUST0567,ORD04486,Product Quality,The product received was damaged or poor quality.,Low,In Progress,2026-05-14
+TKT00829,CUST0546,ORD04318,Payment Issue,My payment was deducted but order confirmation failed.,Low,In Progress,2025-08-27
+TKT00830,CUST0925,ORD00145,Payment Issue,My payment was deducted but order confirmation failed.,Medium,Open,2025-11-23
+TKT00831,CUST0339,ORD01230,Delivery Delay,My order has not arrived on time.,Low,Open,2025-03-11
+TKT00832,CUST0629,ORD01205,Delivery Delay,My order has not arrived on time.,Low,In Progress,2025-01-25
+TKT00833,CUST0543,ORD02267,Delivery Delay,My order has not arrived on time.,Low,In Progress,2026-08-05
+TKT00834,CUST0846,ORD00716,Product Quality,The product received was damaged or poor quality.,High,Open,2025-06-05
+TKT00835,CUST0438,ORD04272,Missing Item,One or more items are missing from my order.,Medium,Open,2026-10-20
+TKT00836,CUST0184,ORD03884,Delivery Delay,My order has not arrived on time.,High,Open,2025-08-07
+TKT00837,CUST0985,ORD04042,Delivery Delay,My order has not arrived on time.,Low,Resolved,2026-07-15
+TKT00838,CUST0866,ORD00992,Delivery Delay,My order has not arrived on time.,Low,Open,2026-01-14
+TKT00839,CUST0780,ORD00073,Product Quality,The product received was damaged or poor quality.,High,Resolved,2025-07-13
+TKT00840,CUST0282,ORD04554,Refund Request,I want a refund for my order.,Low,In Progress,2025-02-09
+TKT00841,CUST0688,ORD01445,Missing Item,One or more items are missing from my order.,High,In Progress,2026-08-20
+TKT00842,CUST0844,ORD03282,Refund Request,I want a refund for my order.,Low,Open,2025-12-09
+TKT00843,CUST0781,ORD04548,Payment Issue,My payment was deducted but order confirmation failed.,Low,Open,2026-05-18
+TKT00844,CUST0025,ORD00181,Payment Issue,My payment was deducted but order confirmation failed.,Low,In Progress,2026-03-26
+TKT00845,CUST0804,ORD00028,Delivery Delay,My order has not arrived on time.,Low,In Progress,2025-12-02
+TKT00846,CUST0804,ORD00028,Refund Request,I want a refund for my order.,Medium,In Progress,2025-01-04
+TKT00847,CUST0098,ORD00782,Product Quality,The product received was damaged or poor quality.,Medium,In Progress,2026-06-01
+TKT00848,CUST0523,ORD00259,Missing Item,One or more items are missing from my order.,Medium,Open,2026-05-12
+TKT00849,CUST0472,ORD04100,Refund Request,I want a refund for my order.,High,Resolved,2025-08-14
+TKT00850,CUST0043,ORD03030,Refund Request,I want a refund for my order.,High,In Progress,2025-05-30
+TKT00851,CUST0362,ORD04901,Missing Item,One or more items are missing from my order.,High,In Progress,2025-08-26
+TKT00852,CUST0386,ORD04008,Refund Request,I want a refund for my order.,High,Resolved,2026-10-22
+TKT00853,CUST0436,ORD04816,Refund Request,I want a refund for my order.,Medium,Open,2025-04-13
+TKT00854,CUST0821,ORD01193,Missing Item,One or more items are missing from my order.,High,Resolved,2025-06-24
+TKT00855,CUST0591,ORD01439,Product Quality,The product received was damaged or poor quality.,High,Open,2026-04-06
+TKT00856,CUST0108,ORD04248,Missing Item,One or more items are missing from my order.,High,Open,2025-02-03
+TKT00857,CUST0630,ORD01225,Delivery Delay,My order has not arrived on time.,Low,Open,2026-06-02
+TKT00858,CUST0390,ORD00287,Delivery Delay,My order has not arrived on time.,High,Open,2026-03-16
+TKT00859,CUST0453,ORD03346,Delivery Delay,My order has not arrived on time.,Low,Open,2025-10-12
+TKT00860,CUST0392,ORD04005,Delivery Delay,My order has not arrived on time.,High,In Progress,2025-08-13
+TKT00861,CUST0140,ORD04841,Payment Issue,My payment was deducted but order confirmation failed.,High,Open,2026-07-19
+TKT00862,CUST0422,ORD04639,Product Quality,The product received was damaged or poor quality.,Low,In Progress,2025-09-14
+TKT00863,CUST0763,ORD00602,Payment Issue,My payment was deducted but order confirmation failed.,High,Open,2025-02-28
+TKT00864,CUST0126,ORD03861,Refund Request,I want a refund for my order.,Low,In Progress,2025-09-03
+TKT00865,CUST0680,ORD04231,Refund Request,I want a refund for my order.,High,Resolved,2026-06-03
+TKT00866,CUST0761,ORD03491,Missing Item,One or more items are missing from my order.,High,Resolved,2025-08-02
+TKT00867,CUST0874,ORD04099,Delivery Delay,My order has not arrived on time.,Low,In Progress,2026-08-13
+TKT00868,CUST0158,ORD04190,Missing Item,One or more items are missing from my order.,Medium,Open,2025-08-04
+TKT00869,CUST0571,ORD02233,Refund Request,I want a refund for my order.,Low,In Progress,2026-02-07
+TKT00870,CUST0216,ORD00201,Delivery Delay,My order has not arrived on time.,Medium,In Progress,2025-10-10
+TKT00871,CUST0490,ORD02281,Product Quality,The product received was damaged or poor quality.,Low,Open,2026-07-27
+TKT00872,CUST0988,ORD01009,Refund Request,I want a refund for my order.,Medium,Resolved,2026-07-27
+TKT00873,CUST0436,ORD00569,Missing Item,One or more items are missing from my order.,High,In Progress,2025-08-03
+TKT00874,CUST0474,ORD00625,Missing Item,One or more items are missing from my order.,Medium,Resolved,2026-01-17
+TKT00875,CUST0495,ORD03487,Refund Request,I want a refund for my order.,High,Resolved,2025-02-14
+TKT00876,CUST0586,ORD02523,Payment Issue,My payment was deducted but order confirmation failed.,Low,Resolved,2025-06-21
+TKT00877,CUST0589,ORD02700,Product Quality,The product received was damaged or poor quality.,Medium,In Progress,2025-08-09
+TKT00878,CUST0623,ORD03726,Refund Request,I want a refund for my order.,High,In Progress,2026-01-20
+TKT00879,CUST0341,ORD02742,Refund Request,I want a refund for my order.,Low,Open,2025-04-05
+TKT00880,CUST0358,ORD03151,Missing Item,One or more items are missing from my order.,Medium,Open,2025-02-13
+TKT00881,CUST0154,ORD00431,Delivery Delay,My order has not arrived on time.,High,In Progress,2025-08-16
+TKT00882,CUST0327,ORD04256,Delivery Delay,My order has not arrived on time.,Medium,Open,2026-07-28
+TKT00883,CUST0844,ORD02244,Delivery Delay,My order has not arrived on time.,Medium,Resolved,2025-11-13
+TKT00884,CUST0689,ORD00777,Missing Item,One or more items are missing from my order.,High,Resolved,2025-12-01
+TKT00885,CUST0422,ORD04067,Delivery Delay,My order has not arrived on time.,High,In Progress,2026-08-24
+TKT00886,CUST0481,ORD03674,Refund Request,I want a refund for my order.,Low,Resolved,2026-09-16
+TKT00887,CUST0580,ORD00266,Payment Issue,My payment was deducted but order confirmation failed.,High,In Progress,2026-04-12
+TKT00888,CUST0956,ORD00966,Payment Issue,My payment was deducted but order confirmation failed.,High,In Progress,2025-10-24
+TKT00889,CUST0409,ORD00079,Payment Issue,My payment was deducted but order confirmation failed.,Medium,In Progress,2026-06-29
+TKT00890,CUST0844,ORD01354,Delivery Delay,My order has not arrived on time.,High,Resolved,2026-05-04
+TKT00891,CUST0680,ORD00500,Payment Issue,My payment was deducted but order confirmation failed.,Medium,In Progress,2025-08-03
+TKT00892,CUST0840,ORD03550,Delivery Delay,My order has not arrived on time.,Medium,In Progress,2026-06-08
+TKT00893,CUST0630,ORD02613,Refund Request,I want a refund for my order.,High,Open,2025-01-02
+TKT00894,CUST0760,ORD04902,Refund Request,I want a refund for my order.,High,Resolved,2026-10-23
+TKT00895,CUST0485,ORD03748,Missing Item,One or more items are missing from my order.,High,In Progress,2026-10-16
+TKT00896,CUST0411,ORD03058,Missing Item,One or more items are missing from my order.,High,Open,2025-07-26
+TKT00897,CUST0503,ORD02547,Product Quality,The product received was damaged or poor quality.,Low,In Progress,2025-12-07
+TKT00898,CUST0090,ORD00273,Refund Request,I want a refund for my order.,Medium,Resolved,2026-02-11
+TKT00899,CUST0653,ORD00352,Delivery Delay,My order has not arrived on time.,Low,Open,2025-11-02
+TKT00900,CUST0267,ORD03082,Product Quality,The product received was damaged or poor quality.,Low,Open,2026-05-22
+TKT00901,CUST0749,ORD00022,Refund Request,I want a refund for my order.,Medium,In Progress,2026-04-14
+TKT00902,CUST0882,ORD00212,Delivery Delay,My order has not arrived on time.,Low,In Progress,2026-07-12
+TKT00903,CUST0653,ORD01096,Refund Request,I want a refund for my order.,High,Resolved,2026-05-10
+TKT00904,CUST0341,ORD04421,Refund Request,I want a refund for my order.,High,Resolved,2025-09-18
+TKT00905,CUST0529,ORD02295,Delivery Delay,My order has not arrived on time.,High,In Progress,2026-08-01
+TKT00906,CUST0685,ORD03548,Refund Request,I want a refund for my order.,High,Open,2026-10-24
+TKT00907,CUST0184,ORD02058,Refund Request,I want a refund for my order.,Medium,Resolved,2026-08-05
+TKT00908,CUST0237,ORD00866,Refund Request,I want a refund for my order.,High,Resolved,2025-12-30
+TKT00909,CUST0845,ORD01856,Missing Item,One or more items are missing from my order.,Medium,Open,2026-05-29
+TKT00910,CUST0995,ORD00459,Payment Issue,My payment was deducted but order confirmation failed.,Medium,In Progress,2026-06-25
+TKT00911,CUST0546,ORD03852,Refund Request,I want a refund for my order.,Medium,Resolved,2026-07-27
+TKT00912,CUST0069,ORD00918,Delivery Delay,My order has not arrived on time.,Medium,Open,2026-09-04
+TKT00913,CUST0206,ORD01882,Refund Request,I want a refund for my order.,Low,Resolved,2026-03-31
+TKT00914,CUST0362,ORD04901,Missing Item,One or more items are missing from my order.,Low,Open,2025-05-24
+TKT00915,CUST0837,ORD02960,Missing Item,One or more items are missing from my order.,High,Resolved,2025-07-11
+TKT00916,CUST0687,ORD02293,Refund Request,I want a refund for my order.,Medium,In Progress,2025-12-19
+TKT00917,CUST0415,ORD02716,Product Quality,The product received was damaged or poor quality.,High,Open,2025-10-26
+TKT00918,CUST0843,ORD03921,Payment Issue,My payment was deducted but order confirmation failed.,High,Resolved,2026-04-05
+TKT00919,CUST0733,ORD01273,Delivery Delay,My order has not arrived on time.,High,Resolved,2026-03-03
+TKT00920,CUST0949,ORD03183,Delivery Delay,My order has not arrived on time.,High,Open,2025-01-31
+TKT00921,CUST0284,ORD04364,Delivery Delay,My order has not arrived on time.,Medium,Open,2025-11-28
+TKT00922,CUST0910,ORD02863,Delivery Delay,My order has not arrived on time.,Medium,In Progress,2026-02-15
+TKT00923,CUST0571,ORD02233,Missing Item,One or more items are missing from my order.,Low,Open,2025-02-21
+TKT00924,CUST0019,ORD00726,Payment Issue,My payment was deducted but order confirmation failed.,Medium,Resolved,2026-01-19
+TKT00925,CUST0232,ORD01242,Refund Request,I want a refund for my order.,Medium,In Progress,2025-08-31
+TKT00926,CUST0294,ORD04731,Refund Request,I want a refund for my order.,High,Open,2026-09-04
+TKT00927,CUST0147,ORD02707,Product Quality,The product received was damaged or poor quality.,Medium,Resolved,2026-02-21
+TKT00928,CUST0433,ORD01507,Refund Request,I want a refund for my order.,High,Open,2026-04-20
+TKT00929,CUST0897,ORD02092,Payment Issue,My payment was deducted but order confirmation failed.,Medium,Resolved,2026-01-27
+TKT00930,CUST0877,ORD02891,Refund Request,I want a refund for my order.,Low,Resolved,2026-01-24
+TKT00931,CUST0517,ORD02688,Missing Item,One or more items are missing from my order.,High,In Progress,2026-07-27
+TKT00932,CUST0750,ORD03499,Refund Request,I want a refund for my order.,Medium,In Progress,2026-04-14
+TKT00933,CUST0843,ORD01288,Delivery Delay,My order has not arrived on time.,Medium,Open,2026-02-12
+TKT00934,CUST0455,ORD03247,Delivery Delay,My order has not arrived on time.,High,In Progress,2026-06-03
+TKT00935,CUST0180,ORD02214,Delivery Delay,My order has not arrived on time.,Low,Open,2025-07-08
+TKT00936,CUST0469,ORD04703,Delivery Delay,My order has not arrived on time.,Low,In Progress,2026-08-18
+TKT00937,CUST0166,ORD00790,Missing Item,One or more items are missing from my order.,Medium,In Progress,2025-12-17
+TKT00938,CUST0215,ORD00743,Missing Item,One or more items are missing from my order.,Medium,Open,2025-10-10
+TKT00939,CUST0072,ORD02309,Missing Item,One or more items are missing from my order.,Medium,In Progress,2026-09-28
+TKT00940,CUST0597,ORD02542,Refund Request,I want a refund for my order.,High,In Progress,2025-06-06
+TKT00941,CUST0468,ORD03455,Delivery Delay,My order has not arrived on time.,High,In Progress,2026-08-22
+TKT00942,CUST0481,ORD02021,Product Quality,The product received was damaged or poor quality.,High,In Progress,2025-05-28
+TKT00943,CUST0304,ORD04569,Product Quality,The product received was damaged or poor quality.,Medium,Open,2025-03-11
+TKT00944,CUST0327,ORD02371,Delivery Delay,My order has not arrived on time.,Low,Resolved,2026-01-05
+TKT00945,CUST0728,ORD00647,Payment Issue,My payment was deducted but order confirmation failed.,High,Open,2026-08-11
+TKT00946,CUST0509,ORD00597,Refund Request,I want a refund for my order.,Low,Open,2026-09-18
+TKT00947,CUST0594,ORD04868,Product Quality,The product received was damaged or poor quality.,Medium,Open,2026-05-30
+TKT00948,CUST0891,ORD00671,Missing Item,One or more items are missing from my order.,High,In Progress,2025-08-22
+TKT00949,CUST0378,ORD04740,Payment Issue,My payment was deducted but order confirmation failed.,High,In Progress,2026-09-03
+TKT00950,CUST0806,ORD01391,Missing Item,One or more items are missing from my order.,High,Resolved,2026-09-28
+TKT00951,CUST0189,ORD00468,Payment Issue,My payment was deducted but order confirmation failed.,Medium,In Progress,2026-04-12
+TKT00952,CUST0537,ORD01524,Payment Issue,My payment was deducted but order confirmation failed.,Medium,Resolved,2026-07-11
+TKT00953,CUST0232,ORD03074,Refund Request,I want a refund for my order.,Medium,Resolved,2025-10-14
+TKT00954,CUST0113,ORD02140,Missing Item,One or more items are missing from my order.,Low,In Progress,2026-09-10
+TKT00955,CUST0165,ORD03928,Missing Item,One or more items are missing from my order.,Low,Resolved,2025-10-21
+TKT00956,CUST0779,ORD03055,Product Quality,The product received was damaged or poor quality.,High,Open,2026-04-26
+TKT00957,CUST0953,ORD02004,Delivery Delay,My order has not arrived on time.,High,Open,2025-05-14
+TKT00958,CUST0496,ORD03174,Delivery Delay,My order has not arrived on time.,Medium,Open,2025-01-08
+TKT00959,CUST0616,ORD04858,Product Quality,The product received was damaged or poor quality.,Medium,Resolved,2025-01-28
+TKT00960,CUST0028,ORD02060,Payment Issue,My payment was deducted but order confirmation failed.,Medium,Resolved,2026-06-04
+TKT00961,CUST0318,ORD00768,Product Quality,The product received was damaged or poor quality.,High,Open,2025-11-06
+TKT00962,CUST0139,ORD02044,Product Quality,The product received was damaged or poor quality.,Medium,In Progress,2026-10-08
+TKT00963,CUST0110,ORD04201,Missing Item,One or more items are missing from my order.,Low,Open,2026-06-25
+TKT00964,CUST0895,ORD01089,Product Quality,The product received was damaged or poor quality.,Low,In Progress,2026-09-19
+TKT00965,CUST0920,ORD04746,Payment Issue,My payment was deducted but order confirmation failed.,High,In Progress,2026-05-09
+TKT00966,CUST0190,ORD02942,Delivery Delay,My order has not arrived on time.,High,Resolved,2025-02-03
+TKT00967,CUST0621,ORD03008,Refund Request,I want a refund for my order.,Low,Resolved,2025-01-07
+TKT00968,CUST0833,ORD01586,Product Quality,The product received was damaged or poor quality.,Medium,In Progress,2025-02-09
+TKT00969,CUST1000,ORD04603,Product Quality,The product received was damaged or poor quality.,High,In Progress,2025-11-26
+TKT00970,CUST0025,ORD00181,Missing Item,One or more items are missing from my order.,High,In Progress,2025-03-03
+TKT00971,CUST0950,ORD01494,Missing Item,One or more items are missing from my order.,High,Resolved,2025-03-27
+TKT00972,CUST0938,ORD02093,Product Quality,The product received was damaged or poor quality.,Low,Open,2025-04-26
+TKT00973,CUST0836,ORD02387,Product Quality,The product received was damaged or poor quality.,High,In Progress,2026-07-31
+TKT00974,CUST0327,ORD02371,Payment Issue,My payment was deducted but order confirmation failed.,Low,Resolved,2025-10-24
+TKT00975,CUST0591,ORD00740,Delivery Delay,My order has not arrived on time.,Low,Open,2026-01-14
+TKT00976,CUST0932,ORD01128,Delivery Delay,My order has not arrived on time.,Medium,Resolved,2026-09-20
+TKT00977,CUST0953,ORD00477,Refund Request,I want a refund for my order.,Medium,Open,2025-11-18
+TKT00978,CUST0910,ORD02863,Delivery Delay,My order has not arrived on time.,Medium,Resolved,2026-09-20
+TKT00979,CUST0790,ORD01755,Refund Request,I want a refund for my order.,High,Open,2026-01-30
+TKT00980,CUST0505,ORD02829,Missing Item,One or more items are missing from my order.,Low,In Progress,2025-12-23
+TKT00981,CUST0291,ORD02949,Refund Request,I want a refund for my order.,High,Resolved,2026-07-16
+TKT00982,CUST0663,ORD03511,Refund Request,I want a refund for my order.,Low,Open,2026-02-23
+TKT00983,CUST0927,ORD02736,Delivery Delay,My order has not arrived on time.,High,Open,2026-04-23
+TKT00984,CUST0268,ORD03240,Product Quality,The product received was damaged or poor quality.,Low,Open,2025-12-02
+TKT00985,CUST0355,ORD02936,Missing Item,One or more items are missing from my order.,Medium,In Progress,2026-08-14
+TKT00986,CUST0101,ORD03263,Payment Issue,My payment was deducted but order confirmation failed.,Medium,Resolved,2025-01-20
+TKT00987,CUST0317,ORD03084,Refund Request,I want a refund for my order.,High,Open,2026-02-16
+TKT00988,CUST0182,ORD01582,Refund Request,I want a refund for my order.,Low,In Progress,2026-07-03
+TKT00989,CUST0962,ORD01232,Refund Request,I want a refund for my order.,Medium,In Progress,2025-09-16
+TKT00990,CUST0372,ORD03938,Product Quality,The product received was damaged or poor quality.,Low,In Progress,2026-08-28
+TKT00991,CUST0084,ORD01714,Payment Issue,My payment was deducted but order confirmation failed.,High,In Progress,2025-12-23
+TKT00992,CUST0879,ORD02746,Delivery Delay,My order has not arrived on time.,Medium,In Progress,2025-07-20
+TKT00993,CUST0626,ORD00985,Missing Item,One or more items are missing from my order.,High,In Progress,2026-02-15
+TKT00994,CUST0688,ORD02158,Product Quality,The product received was damaged or poor quality.,High,In Progress,2025-10-15
+TKT00995,CUST0898,ORD02649,Payment Issue,My payment was deducted but order confirmation failed.,Low,Resolved,2025-02-17
+TKT00996,CUST0467,ORD03131,Missing Item,One or more items are missing from my order.,High,Resolved,2026-07-12
+TKT00997,CUST0431,ORD02632,Delivery Delay,My order has not arrived on time.,High,In Progress,2026-01-05
+TKT00998,CUST0831,ORD01804,Missing Item,One or more items are missing from my order.,Low,Open,2025-08-19
+TKT00999,CUST0584,ORD04809,Refund Request,I want a refund for my order.,Low,Open,2025-04-05
+TKT01000,CUST0187,ORD02564,Refund Request,I want a refund for my order.,High,Open,2025-10-30
+TKT00005,CUST0899,ORD02166,Delivery Delay,My order has not arrived on time.,High,In Progress,2025-04-05

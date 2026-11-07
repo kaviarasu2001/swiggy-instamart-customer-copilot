@@ -1,0 +1,9 @@
+MOCK INSTAMART PROJECT POLICY: PRODUCT QUALITY
+
+This is a simulated policy created for the academic project.
+
+1. Customers should report damaged, defective, or poor-quality products.
+2. The support team should collect order details and a description of the issue.
+3. Photographic evidence may be requested when appropriate.
+4. Eligible complaints should be reviewed for a suitable resolution.
+5. Serious quality complaints should be escalated to the Quality Support team.

@@ -1,0 +1,9 @@
+MOCK INSTAMART PROJECT POLICY: REFUND REQUEST
+
+This is a simulated policy created for the academic project.
+
+1. Customers can raise a refund request for eligible orders.
+2. The support team should verify the order and refund reason.
+3. Refund requests must be reviewed before approval.
+4. Approved refunds should be processed through the original payment method where applicable.
+5. Complex or disputed refund cases should be escalated to a human agent.
